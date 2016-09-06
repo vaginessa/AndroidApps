@@ -160,6 +160,16 @@ The project was created by the absence of such applications compatible with old 
 
 [Financius - Expense Manager](https://github.com/mvarnagiris/financius-public) is a simple application that helps you log and track your expenses and keep an eye on your balance.
 
+<img src="https://lh3.googleusercontent.com/EhF-MEIXADWULQRdAUGRUcYAmpp0odiBywxH6-mdxvwvxrwVVma1V57Vn28At70buRI=w300" width="auto" height="40")/>
+
+[Google I/O Android App](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
+
+Google I/O is a developer conference held each year with two days of deep technical content featuring technical sessions and hundreds of demonstrations from developers showcasing their technologies.
+
+This project is the Android app for the conference. The app supports devices running Android 4.0+, and is optimized for phones and tablets of all shapes and sizes.
+
+[GitHub](https://github.com/google/iosched) | [Google Play](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
