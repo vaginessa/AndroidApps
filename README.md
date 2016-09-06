@@ -178,6 +178,12 @@ This project is the Android app for the conference. The app supports devices run
 
 [GitHub](https://github.com/google/iosched) | [Google Play](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
 
+<img src="https://syncthing.net/images/logo-horizontal.svg" width="auto" height="40")/>
+
+[Syncthing](https://syncthing.net) replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
+
+[Github](https://github.com/syncthing/syncthing) | [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
