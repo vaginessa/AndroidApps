@@ -184,6 +184,52 @@ This project is the Android app for the conference. The app supports devices run
 
 [Github](https://github.com/syncthing/syncthing) | [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
 
+<img src="https://davdroid.bitfire.at/fileadmin/user_upload/DAVdroid_logo_2.png" width="auto" height="40")/>
+
+[DAVdroid](https://davdroid.bitfire.at) is the only all-in-one synchronization solution for your contacts (CardDAV), calendars (CalDAV) and your tasks (based on VTODO). The app is easy to set up and integrates perfectly with your favorite calendar/contacts app (including default apps). It can also be used seperately, if you either have CalDAV, CardDAV or only Tasks.
+
+[GitLab](https://gitlab.com/bitfireAT/davdroid) | [Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)
+
+<img src="https://lh3.googleusercontent.com/ipYTS445gx9TBC42pvBQduVndzzuofmYvZKK_WwJa0PrWjujjCS2s3RapDE4-QOWZg=w300-rw" width="auto" height="40")/>
+
+Tasks is free and open source task management software based on the same code as Astrid.
+
+[Github](https://github.com/tasks/tasks) | [Google Play](https://play.google.com/store/apps/details?id=org.tasks) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.tasks)
+
+<img src="https://lh3.googleusercontent.com/tGoUnz8xDfiIHfmtH4MnA5p7SLt1i-7QOkPF_D6wACOIYMa2uJVtzMeYvNmBLEpzdQ=w300-rw" width="auto" height="40")/>
+
+[Transportr](https://transportr.grobox.de) is the public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. Currently, it works best in Europe, but also supports many places world-wide. If you live in an unsupported area, consider adding it to Transportr. It finds directions from your home, your current position or a given station to wherever you want to go. You can also save entire trips as favorites and find next trips with one click. Discover nearby stations and show upcoming departures including the delays (if there are any).
+
+[Github](https://github.com/grote/Transportr) | [Google Play](https://play.google.com/store/apps/details?id=de.grobox.liberario) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
+
+<img src="https://lh3.googleusercontent.com/lS4PlMSMAMfTvEnAqYz95LwLY-PLaN-GHMNhHPKfFHOL5jvlqdeXfd8a3zbfdO5GU4o=w300-rw" width="auto" height="40")/>
+
+[KDE Connect](https://community.kde.org/KDEConnect) is a project that aims to communicate all your devices. For example, with KDE Connect you can receive your phone notifications on your computer, or just use your phone as a remote control for your desktop. To achieve this, KDE Connect implements a secure communication protocol over the network, and allows any developer to create plugins on top of it. Currently there are KDE Connect clients on KDE, Android and Blackberry, and soon we will support iPhone as well.
+
+[Source](https://quickgit.kde.org/?p=kdeconnect-android.git) | [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.kde.kdeconnect_tp)
+
+<img src="https://lh3.googleusercontent.com/yi-ViA841p68znBh2zb3DSkUUD2RUrjQGVHXprEuTnuUoadBPiVfEqeuVlhGWqFBBB9q=w300-rw" width="auto" height="40")/>
+
+[Termux](https://termux.com) is a terminal emulator and Linux environment bringing powerful terminal access to Android.
+
+Ready to go. Termux works directly with no rooting or setup required. At first start a minimal base system is installed automatically - you decide what to do next.
+
+Secure. Access remote servers using the ssh client from OpenSSH. Termux combines powerful standard packages with accurate terminal emulation in a beautiful open source solution.
+
+Feature packed. Take your pick between bash, fish or zsh and nano, emacs or vim. Grep through your SMS inbox. Access API endpoints with curl and use rsync to store backups of your contact list on a remote server.
+
+Customizable. Install what you want through the Apt package management system known from Debian and Ubuntu GNU/Linux. Why not start with installing git and syncing your dotfiles?
+
+Explorable. Have you ever sat on a bus and thought about exactly which arguments tar accepts? Packages available in Termux are the same as those on Mac and Linux - install man pages on your phone and read them in one session while experimenting with them in another.
+
+With batteries included. Can you imagine a more powerful yet elegant pocket calculator than a readline-powered python console? Up-to-date versions of perl, python, ruby and node.js are all available.
+
+Ready to scale up. Connect a bluetooth keyboard and hook up your device to an external display if you need to - Termux supports keyboard shortcuts and has full mouse support.
+
+Tinkerable. Develop by compiling C files with clang or gcc and build your own projects with makefiles or cmake. Both gdb and strace are available if you get stuck and need to debug.
+
+[Github](https://github.com/termux/termux-app) | [Google Play](https://play.google.com/store/apps/details?id=com.termux) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.termux)
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
