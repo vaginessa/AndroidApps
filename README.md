@@ -114,6 +114,16 @@ Since we were founded by CERN scientists in 2013, we have been joined by citizen
 
 [Orbot](https://guardianproject.info/apps/orbot/) is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as traffic analysis. Orbot creates a truly private mobile internet connection.
 
+<img src="https://lh3.googleusercontent.com/L1hUQxKqN0qrTOfiyFetR6u9SOeW3b3EZd6bbtoWU8_Af5nd4FCz_du3jocz9qszO2Y=w300-rw" width="auto" height="40")/>
+
+[Orfox](https://guardianproject.info/2015/06/30/orfox-aspiring-to-bring-tor-browser-to-android/) is a new privacy-enhanced browser for Android, based on Mozilla Firefox, configured by default to work with Orbot: Tor for Android.
+
+Orfox is built from the same source code as Tor Browser (which is built upon Firefox), but with a few minor modifications to the privacy enhancing features to make them compatible with Firefox for Android and the Android operating system. Orfox requires Orbot app for Android to connect to the Tor network.
+
+In as many ways as possible, we adhere to the [design goals of Tor Browser](https://www.torproject.org/projects/torbrowser/design/), by supporting as much of their actual code as possible, and extending their work into the additional Android components of Firefox for Android.
+
+[Github](https://github.com/guardianproject/Orfox) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.orfox)
+
 <img src="https://brave.com/assets/img/brave_logo_horz.svg" width="auto" height="40")/>
 
 [Brave](https://brave.com) has joined forces with LinkBubble to bring you a faster web - by blocking the ads and trackers that get in your way plus all the features you love from LinkBubble. Just go to the settings to turn on or off privacy features like ad blocking, tracker protection and Https Everywhere.
