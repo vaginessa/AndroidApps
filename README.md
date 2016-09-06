@@ -156,6 +156,10 @@ The project was created by the absence of such applications compatible with old 
 
 [AntennaPod](http://antennapod.org) is a podcast manager and player that gives you instant access to millions of free and paid podcasts, from independent podcasters to large publishing houses such as the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the iTunes podcast database, gPodder, OPML files or simple RSS URLs. Save effort, battery power and mobile data usage with powerful automation controls for downloading episodes (specify times, intervals and WiFi networks) and deleting episodes (based your favourites and delay settings). But most importantly: Download, stream or queue episodes and enjoy them the way you like with adjustable playback speeds, chapter support and a sleep timer.
 
+<img src="https://lh6.ggpht.com/8Be88NJE_lh2zVzRCQtBKXN5U80ym4WnRpRuZnwaXjE01jDwjk7qotrOqkUJywVkQTsI=w40-rw" width="auto" height="40")/>
+
+[Financius - Expense Manager](https://github.com/mvarnagiris/financius-public) is a simple application that helps you log and track your expenses and keep an eye on your balance.
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
