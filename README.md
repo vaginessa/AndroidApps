@@ -118,6 +118,12 @@ Root explorer for advanced users
 
 [Github](https://github.com/ccrama/Slide) | [Google Play](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
 
+<img src="https://lh3.ggpht.com/BvrKqta6K73LA2KsUSv9P2sqQ5SWjf5Zj1zxjlOYAYVQO4tlpK3dLxM_J8agIcC933o=w300-rw" width="auto" height="40")/>
+
+[RedReader](https://github.com/QuantumBadger/RedReader) is an unofficial client for the news site reddit.com.
+
+[Github](https://github.com/QuantumBadger/RedReader) | [Google Play](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/aperture.jpg" width="auto" height="40")/>
 
 [Aperture Gallery](https://github.com/MJonesDev/ApertureGallery) is an open source material design gallery. No distractions from your photos, and no heavy weight from loading. Personalize it to your liking by changing colours and by going into dark mode. Based on an old build of Impression by Aidan Follestad, Daniel Chao, and Marlon Jones.
@@ -291,6 +297,12 @@ Ready to scale up. Connect a bluetooth keyboard and hook up your device to an ex
 Tinkerable. Develop by compiling C files with clang or gcc and build your own projects with makefiles or cmake. Both gdb and strace are available if you get stuck and need to debug.
 
 [Github](https://github.com/termux/termux-app) | [Google Play](https://play.google.com/store/apps/details?id=com.termux) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.termux)
+
+<img src="https://lh6.ggpht.com/oRJZ9MTzxRRz3xaJ4my7ptROkGh7wtphGyzEzCeh0BmC0GYN1ZyJVOjWypBseBErmCoi=w300-rw" width="auto" height="40")/>
+
+[Tomahawk](https://www.tomahawk-player.org), the critically acclaimed multi-source music player, is now available on Android. Given the name of an artist, album or song Tomahawk will find the best available source and play it - whether that be from Spotify, Deezer, GMusic, Soundcloud, Tidal, Official.fm, Jamendo, Beets, Ampache, Subsonic or your phone’s local storage. Tomahawk for Android also syncs your history, your loved tracks, artists, albums and your playlists to/from the desktop version of Tomahawk via our new music community, Hatchet. On Hatchet you can hear your friends' favorite tracks and see what they're currently listening to.
+
+[Github](https://github.com/tomahawk-player/tomahawk-android) | [Google Play](https://play.google.com/store/apps/details?id=org.tomahawk.tomahawk_android)
 
 ---
 
