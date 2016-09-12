@@ -70,17 +70,25 @@ Telegram seamlessly syncs across all of your devices and can be used on desktops
 
 [Conversation](https://conversations.im) is a free and open source Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience. Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
 
+[Github](https://github.com/siacs/Conversations) | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/osmand.png" width="auto" height="40")/>
 
 [OsmAnd](http://osmand.net) (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data. All map data can be stored on your device's memory card for offline use. Via your device's GPS, OsmAnd offers routing, with optical and voice guidance, for car, bike, and pedestrian. All the main functionalities work both online and offline (no internet needed).
+
+[Github](https://github.com/osmandapp/Osmand) | [Google Play](https://play.google.com/store/apps/details?id=net.osmand.plus)
 
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/mirakel.png" width="auto" height="40")/>
 
 [Mirakel](http://mirakel.azapps.de) is an easy to use and lightweight To-Do App for your Android Phone or Tablet. Become the most efficient & effective Dev with this task list for the greatest developers in the universe. Get your things done with a strictly organised workflow.
 
+[Github](https://github.com/MirakelX/mirakel-android) | [Google Play](https://play.google.com/store/apps/details?id=de.azapps.mirakelandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.azapps.mirakelandroid)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/afwall.jpg" width="auto" height="40")/>
 
 Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced iptables editor (GUI) for Android. It provides fine-grained control over which Android apps are allowed to access the network. The original codebase was derived from [DroidWall](https://code.google.com/archive/p/droidwall/) by Rodrigo Rosauro. DroidWall was sold to AVAST in December 2011, and is no longer actively maintained.
+
+[Github](https://github.com/ukanth/afwall) | [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
 
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/amazefile.png" width="auto" height="40")/>
 
@@ -96,13 +104,19 @@ App Manager to open, backup, or directly uninstall any app
 Quickly access history, access bookmarks or search for any file
 Root explorer for advanced users
 
+[Github](https://github.com/arpitkh96/AmazeFileManager) | [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.amaze.filemanager)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/etar.jpg" width="auto" height="40")/>
 
 [Etar Calendar](https://github.com/xsoh/Etar-Calendar) is a material designed calendar based on the ASOP calendar.
 
+[Github](https://github.com/xsoh/Etar-Calendar) | [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar) | [F-Droid](https://f-droid.org/repository/browse/?fdid=ws.xsoh.etar)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/slide.png" width="auto" height="40")/>
 
 [Slide for Reddit](https://github.com/ccrama/Slide) is a rock-solid material-designed unofficial browser for Reddit with an easy to use UI and tons of customization. Slide is ad-free, open source, and is packed with many unique features.
+
+[Github](https://github.com/ccrama/Slide) | [Google Play](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
 
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/aperture.jpg" width="auto" height="40")/>
 
@@ -110,17 +124,25 @@ Root explorer for advanced users
 
 > "Due to an expired keystore Keystore, Aperture Gallery is being replaced by a new version, and this will now be known as Aperture Classic. I will focus on developing this new version of Aperture, and will add in more features and additions as my time permits. Aperture Gallery (Known as Project: EVO to beta and debug testers) will be released on the Google Play store in the coming months."
 
+[Github](https://github.com/MJonesDev/ApertureGallery)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/masterpassword.png" width="auto" height="40")/>
 
 [Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
+
+[Github](https://github.com/Lyndir/MasterPassword/)
 
 <img src="https://lh3.googleusercontent.com/DPKR9wd6oDY6dbsJum0AwEq1Od7wHH1AuccSg7qI_E643rgCgH7CPotucBEh_qLO40kx=w300-rw" width="auto" height="40")/>
 
 [Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets.
 
+[SourceForge](https://sourceforge.net/projects/opencamera/) | [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=open+camera&fdid=net.sourceforge.opencamera)
+
 <img src="https://camo.githubusercontent.com/23fbe32cc11eced94a8be58052d3fe70ab84ef3b/687474703a2f2f692e696d6775722e636f6d2f664668796756772e706e67" width="auto" height="40")/>
 
 [Antox](https://github.com/Antox/Antox) is an Android 4+ client for Tox created by Mark Winter. It aims to bring the full multimedia support Tox offers to your device, although it's still currently in heavy development. Antox is currently available for alpha testing on Google Play and F-Droid.
+
+[Github](https://github.com/Antox/Antox) | [Google Play](https://play.google.com/store/apps/details?id=chat.tox.antox) | [F-Droid repo](https://pkg.tox.chat/fdroid/repo/)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Protonmail_logo.svg/440px-Protonmail_logo.svg.png" width="auto" height="40")/>
 
@@ -128,9 +150,13 @@ Root explorer for advanced users
 
 Since we were founded by CERN scientists in 2013, we have been joined by citizens from around the globe who have supported our mission to protect online privacy. Our mobile app was made possible by a record-breaking $550,000 donation campaign. With the ProtonMail app, you can now create your own free ProtonMail email account and start experiencing the secure email of the future.
 
+[Github](https://github.com/ProtonMail/WebClient) | [Google Play](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+
 <img src="https://lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E=w300-rw" width="auto" height="40")/>
 
 [Orbot](https://guardianproject.info/apps/orbot/) is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as traffic analysis. Orbot creates a truly private mobile internet connection.
+
+[Github](https://github.com/n8fr8/orbot) | [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android)
 
 <img src="https://lh3.googleusercontent.com/L1hUQxKqN0qrTOfiyFetR6u9SOeW3b3EZd6bbtoWU8_Af5nd4FCz_du3jocz9qszO2Y=w300-rw" width="auto" height="40")/>
 
@@ -150,6 +176,8 @@ Recognized in Google Play's Best Apps of 2014, Brave (formerly known as LinkBubb
 
 Brave is designed for both speed and security, so you can enjoy a lightning fast browsing experience without popups, malware and other annoyances. All Brave browsers are open source, so you can view our code and even make contributions.
 
+[Github](https://github.com/brave/browser-android) | [Google Play](https://play.google.com/store/apps/details?id=com.linkbubble.playstore)
+
 <img src="https://lh3.googleusercontent.com/cRGR6rWCpk6CfIPMLvTzkNNLcCjTOG_RvvQrKLQP5FxGv7PchQqnYMvy80Mn9jI1pP9l=w300-rw" width="auto" height="40")/>
 
 [Ghost Commander](https://sites.google.com/site/ghostcommander1) is a file manager with two panels for the Android™ platform. Its development was inspired by the famous (Norton|Midnight|Total) Commander desktop applications, so if you are familiar with those great programs, you will find Ghost Commander a familiar and very convenient environment.
@@ -158,9 +186,13 @@ As was said above, it has two separate panels, both of them able to show files f
 
 All the main file operations in this application are bound to numerical keys, with the same numbers as in the well-known prototype applications (e.g.: "F5 copy" is just '5', "F6 move" is '6'). If your device is not enriched with a physical keyboard, no problem, Ghost Commander features a customizable toolbar which has all the often-used commands collected in one place.
 
+[SourceForge](https://sourceforge.net/projects/ghostcommander) | [Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.ghostsq.commander)
+
 <img src="https://lh4.ggpht.com/EO1uOieubXpbKirYORUaEHZX7udIUlHcd7pgjZXQ71DYocMp5PDe610AVPVAozAL-l0=w300-rw" width="auto" height="40")/>
 
 [Twidere](http://twidere.mariotaku.org) is a powerful Twitter/StatusNet/Fanfou app for Android 4.0+, which gives you a full Material experience and nearly complete (or even better) Twitter feature.
+
+[Github](https://github.com/mariotaku/twidere) | [Google Play](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
 
 <img src="https://lh3.googleusercontent.com/KEKTKfmJxEQoHB7GwxXxfYUQd0VjFDqsnm8EI8gm2PXiKNA6bcKsNrMw1KazzdVv0ME=w300-rw" width="auto" height="40")/>
 
@@ -168,25 +200,37 @@ All the main file operations in this application are bound to numerical keys, wi
 
 The project was created by the absence of such applications compatible with old phones and old versions of Android that would propose, however, an attractive look and aligned with the most recent design of the Google operating system.
 
+[Github](https://github.com/federicoiosue/Omni-Notes) | [Google Play](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)
+
 <img src="https://lh3.googleusercontent.com/UGqSCx96rFlYX_P8YIzUBUo9g-q1J1Ba_dV1z0cxdBhWOmxZQODsPCDT7AQky7lBZA=w300-rw" width="auto" height="40")/>
 
 [Hack.chat](https://hack.chat) is a minimal, distraction-free chat application. Create a chatroom with just a name, there are no preset channel so just enter a chatroom name and a nickname, share the link and communicate.
+
+[Github](https://github.com/AndrewBelt/hack.chat) | [Google Play](https://play.google.com/store/apps/details?id=chat.hack.hackchat) | [Google Play](https://play.google.com/store/apps/details?id=com.niobbu.nippychat)
 
 <img src="https://lh4.ggpht.com/2jbUS9Hz8nWQEZKQR17xpxEnXhlW3tisxmhi-NNrMaA6TQT2RtewoHAezDXCbEPJxg=w300-rw" width="auto" height="40")/>
 
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) is a terminal emulator for communicating with the built-in Android shell. It emulates a reasonably large subset of Digital Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs" and "NetHack" will display properly.
 
+[Github](https://github.com/jackpal/Android-Terminal-Emulator) | [Google Play](https://play.google.com/store/apps/details?id=jackpal.androidterm)
+
 <img src="https://lh3.googleusercontent.com/Rgali5rKl8iNo8kGuocH_4V9md6HbeW0YE-Bb6PGVzHoG5ng8bcNk3ywOx0-AOnqu-8t=w300-rw" width="auto" height="40")/>
 
 [Simplenote](https://simplenote.com) is an easy way to keep notes, lists, ideas, and more. Keep notes on the web, your mobile device, and your computer. Find notes quickly with instant searching and simple tags. Share a list, post some instructions, or publish your thoughts.
+
+[Github](https://github.com/automattic/simplenote-android) | [Google Play](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
 
 <img src="http://antennapod.org/assets/img/antennapod-logo.png" width="auto" height="40")/>
 
 [AntennaPod](http://antennapod.org) is a podcast manager and player that gives you instant access to millions of free and paid podcasts, from independent podcasters to large publishing houses such as the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the iTunes podcast database, gPodder, OPML files or simple RSS URLs. Save effort, battery power and mobile data usage with powerful automation controls for downloading episodes (specify times, intervals and WiFi networks) and deleting episodes (based your favourites and delay settings). But most importantly: Download, stream or queue episodes and enjoy them the way you like with adjustable playback speeds, chapter support and a sleep timer.
 
+[Github](https://github.com/antennapod/AntennaPod) | [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.danoeh.antennapod)
+
 <img src="https://lh6.ggpht.com/8Be88NJE_lh2zVzRCQtBKXN5U80ym4WnRpRuZnwaXjE01jDwjk7qotrOqkUJywVkQTsI=w40-rw" width="auto" height="40")/>
 
 [Financius - Expense Manager](https://github.com/mvarnagiris/financius-public) is a simple application that helps you log and track your expenses and keep an eye on your balance.
+
+[Github](https://github.com/mvarnagiris/financius-public) | [Google Play](https://play.google.com/store/apps/details?id=com.code44.finance)
 
 <img src="https://lh3.googleusercontent.com/EhF-MEIXADWULQRdAUGRUcYAmpp0odiBywxH6-mdxvwvxrwVVma1V57Vn28At70buRI=w300" width="auto" height="40")/>
 
@@ -210,7 +254,7 @@ This project is the Android app for the conference. The app supports devices run
 
 <img src="https://lh3.googleusercontent.com/ipYTS445gx9TBC42pvBQduVndzzuofmYvZKK_WwJa0PrWjujjCS2s3RapDE4-QOWZg=w300-rw" width="auto" height="40")/>
 
-Tasks is free and open source task management software based on the same code as Astrid.
+[Tasks](https://github.com/tasks/tasks) is free and open source task management software based on the same code as Astrid.
 
 [Github](https://github.com/tasks/tasks) | [Google Play](https://play.google.com/store/apps/details?id=org.tasks) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.tasks)
 
