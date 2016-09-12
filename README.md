@@ -31,21 +31,31 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 
 [K-9 Mail](https://github.com/k9mail/k-9/) is an open-source e-mail client with search, IMAP push email, multi-folder sync, flagging, filing, signatures, bcc-self, [PGP](https://www.wikiwand.com/en/Pretty_Good_Privacy), mail on SD & more! K-9 supports IMAP, POP3 and Exchange 2003/2007 (with WebDAV).
 
+[Github](https://github.com/k9mail/k-9/) | [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/lightning.png" width="auto" height="40")/>
 
 [Lightning](https://github.com/anthonycr/Lightning-Browser) is a simple, fast web browser that focuses on design, security, and efficiency. It uses material design, doesn't track you, give you lots of options to protect your privacy, and does it in under 2MB. It gets out of the way of the user.
+
+[Github](https://github.com/anthonycr/Lightning-Browser) | [Google Play](https://play.google.com/store/apps/details?id=acr.browser.barebones) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=lightning&fdid=acr.browser.lightning)
 
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/newpipe.png" width="auto" height="40")/>
 
 [NewPipe](https://newpipe.schabi.org) is a lightweight YouTube front-end for Android. It doesn't need the YouTube-API or any Google Play Services, as NewPipe only parses the YouTube website in order to gain the information it needs.
 
+[Github](https://github.com/theScrabi/NewPipe) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/adaway.png" width="auto" height="40")/>
 
 [AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
 
+[Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/writeily.jpg" width="auto" height="40")/>
 
 [Writely](http://writeily.me) is a minimalist Markdown editor for Android. Simply and elegantly compose notes in markdown or plain text. Organize by folders, save and access files from external storage, and restrict access with a PIN lock.
+
+[Github](https://github.com/plafue/writeily-pro) | [Google Play](https://play.google.com/store/apps/details?id=me.writeily) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.writeily)
 
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/telegram.png" width="auto" height="40")/>
 
@@ -53,6 +63,8 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 Telegram seamlessly syncs across all of your devices and can be used on desktops, tablets and phones alike. You can send an unlimited amount of messages, photos, videos and files of any type (.doc, .zip, .pdf, etc.). Telegram groups have up to 5000 people and you can create channels to broadcast messages to an unlimited number of subscribers.
 
 > "It's worth a mention that Telegram's server side is not open-source. However, that doesn't really matter for security purposes, because the end-to-end encryption between client-side end users is tested and works flawlessly in Telegram regardless of the software on the server." — [enigmatoid](https://reddit.com/r/opensource/comments/51a3dv/a_list_of_interesting_and_open_source_android_apps/d7agjbq)
+
+[Github](https://github.com/DrKLO/Telegram) | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/conversations.png" width="auto" height="40")/>
 
