@@ -13,13 +13,19 @@ A list of interesting and open source Android apps.
 Privacy is possible, [Signal](https://whispersystems.org) makes it easy.
 Using Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or attachments all with complete privacy. The server never has access to any of your communication and never stores any of your data.
 
+[Github](https://github.com/WhisperSystems/Signal-Android) | [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/silence.png" width="auto" height="40")/>
 
 [Silence](https://silence.im) (formerly SMSSecure) is an SMS/MMS application that allows you to protect your privacy while communicating with friends. Using Silence, you can send SMS messages and share media or attachments with complete privacy.
 
+[Github](https://github.com/SilenceIM/Silence) | [Google Play](https://play.google.com/store/apps/details?id=org.smssecure.smssecure) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure)
+
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/chatsecure.png" width="auto" height="40")/>
 
 [ChatSecure](https://chatsecure.org) is a free and open source messaging app that features OTR encryption over XMPP. You can connect to your existing accounts on Facebook or Google, create new accounts on [public XMPP servers](https://xmpp.net/directory.php) (including via [Tor](https://www.torproject.org/)), or even [connect to your own server](http://arstechnica.com/information-technology/2014/03/how-to-set-up-your-own-private-instant-messaging-server) for extra security. Unlike other apps that keep you stuck in their walled garden, ChatSecure is fully interoperable with other clients that support OTR and XMPP, such as [Adium](https://www.adium.im), [Jitsi](https://jitsi.org), and [more](https://www.wikiwand.com/en/Off-the-Record_Messaging#/Client_support).
+
+[Github](https://github.com/ChatSecure/ChatSecure-iOS) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im)
 
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/k9mail.png" width="auto" height="40")/>
 
