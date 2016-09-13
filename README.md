@@ -304,6 +304,12 @@ Tinkerable. Develop by compiling C files with clang or gcc and build your own pr
 
 [Github](https://github.com/tomahawk-player/tomahawk-android) | [Google Play](https://play.google.com/store/apps/details?id=org.tomahawk.tomahawk_android)
 
+<img src="https://jitsi.org/wiki/pub/sip-communicator/logo3.png" width="auto" height="40")/>
+
+[Jitsi](https://jitsi.org) for Android is an Android port of the Jitsi project: The most feature-rich communicator with support for encrypted audio/video, chat and presence over SIP and XMPP.
+
+[Github](https://github.com/jitsi/jitsi-android) | [Download](https://download.jitsi.org/jitsi/nightly/android/)
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
