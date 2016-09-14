@@ -310,6 +310,12 @@ Tinkerable. Develop by compiling C files with clang or gcc and build your own pr
 
 [Github](https://github.com/jitsi/jitsi-android) | [Download](https://download.jitsi.org/jitsi/nightly/android/)
 
+<img src="https://lh3.googleusercontent.com/J3jhzPEcRxFAPmLhhdebivw-6dzK2DO97MGkucF2Yp-orZvdyrFIIP-_PQ8NdTftmO0=w300-rw" width="auto" height="40")/>
+
+[WordPress](https://apps.wordpress.com/mobile) for Android puts the power of publishing in your hands, making it easy to create and consume content. Write, edit, and publish posts to your site, check stats, and get inspired with great posts in the Reader. What’s more? It’s open source. WordPress for Android supports WordPress.com and self-hosted WordPress.org sites running WordPress 3.5 or higher.
+
+[Github](https://github.com/wordpress-mobile/WordPress-Android) | [Google Play](https://play.google.com/store/apps/details?id=org.wordpress.android)
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
