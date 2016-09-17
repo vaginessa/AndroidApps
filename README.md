@@ -326,3 +326,4 @@ Feel free to add cool open source Android apps which would be missing from this 
 
 * Add F-droid, Google Play and Githubs links to all the apps
 * Sort apps alphabetically or by category?
+* Make an index
