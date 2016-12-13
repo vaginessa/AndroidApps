@@ -316,6 +316,13 @@ Tinkerable. Develop by compiling C files with clang or gcc and build your own pr
 
 [Github](https://github.com/wordpress-mobile/WordPress-Android) | [Google Play](https://play.google.com/store/apps/details?id=org.wordpress.android)
 
+<img src="https://lh3.googleusercontent.com/LWZVHReHUSJywMsSidvFj5RU0ctMotKGySfcIp5RQeu39aMyiwL773n0z1SY7m8fIA=w300-rw" width="auto" height="40")/>
+
+[KISS](https://github.com/Neamar/KISS) is a blazingly fast launcher for android requiring nearly no memory to run.  
+Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the "phone" button. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.
+
+[Github](https://github.com/Neamar/KISS) | [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss) | [F-Droid](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
