@@ -181,7 +181,7 @@ Recognized in Google Play's Best Apps of 2014, Brave (formerly known as LinkBubb
 
 Brave is designed for both speed and security, so you can enjoy a lightning fast browsing experience without popups, malware and other annoyances. All Brave browsers are open source, so you can view our code and even make contributions.
 
-[Github](https://github.com/brave/browser-android) | [Google Play](https://play.google.com/store/apps/details?id=com.linkbubble.playstore)
+[Github](https://github.com/brave/browser-android) | [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
 
 ![Ghost Commander](/img/ghostcommander.png)
 
