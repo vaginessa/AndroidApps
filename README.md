@@ -50,7 +50,7 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 
 [Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
 
-![Writely](/img/writely.png)
+![Writely](/img/writeily.png)
 
 [Writeily](http://writeily.me) is a minimalist Markdown editor for Android. Simply and elegantly compose notes in markdown or plain text. Organize by folders, save and access files from external storage, and restrict access with a PIN lock.
 
@@ -65,31 +65,31 @@ Telegram seamlessly syncs across all of your devices and can be used on desktops
 
 [Github](https://github.com/DrKLO/Telegram) | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/conversations.png" width="auto" height="40")/>
+![Conversations](/img/conversations.png)
 
 [Conversation](https://conversations.im) is a free and open source Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience. Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
 
 [Github](https://github.com/siacs/Conversations) | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/osmand.png" width="auto" height="40")/>
+![OsmAnd](/img/osmand.png)
 
 [OsmAnd](http://osmand.net) (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data. All map data can be stored on your device's memory card for offline use. Via your device's GPS, OsmAnd offers routing, with optical and voice guidance, for car, bike, and pedestrian. All the main functionalities work both online and offline (no internet needed).
 
 [Github](https://github.com/osmandapp/Osmand) | [Google Play](https://play.google.com/store/apps/details?id=net.osmand.plus)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/mirakel.png" width="auto" height="40")/>
+![Mirakel](/img/mirakel.png)
 
 [Mirakel](http://mirakel.azapps.de) is an easy to use and lightweight To-Do App for your Android Phone or Tablet. Become the most efficient & effective Dev with this task list for the greatest developers in the universe. Get your things done with a strictly organised workflow.
 
 [Github](https://github.com/MirakelX/mirakel-android) | [Google Play](https://play.google.com/store/apps/details?id=de.azapps.mirakelandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.azapps.mirakelandroid)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/afwall.jpg" width="auto" height="40")/>
+![AFWall+](/img/afwall.jpg)
 
 Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced iptables editor (GUI) for Android. It provides fine-grained control over which Android apps are allowed to access the network. The original codebase was derived from [DroidWall](https://code.google.com/archive/p/droidwall/) by Rodrigo Rosauro. DroidWall was sold to AVAST in December 2011, and is no longer actively maintained.
 
 [Github](https://github.com/ukanth/afwall) | [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/amazefile.png" width="auto" height="40")/>
+![Amaze File Manager](/img/amaze.png)
 
 [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) is a light and smooth file manager following the Material Design guidelines.
 
@@ -105,13 +105,13 @@ Root explorer for advanced users
 
 [Github](https://github.com/arpitkh96/AmazeFileManager) | [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.amaze.filemanager)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/etar.jpg" width="auto" height="40")/>
+![Etar Calendar](/img/etar.jpg)
 
 [Etar Calendar](https://github.com/xsoh/Etar-Calendar) is a material designed calendar based on the ASOP calendar.
 
 [Github](https://github.com/xsoh/Etar-Calendar) | [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar) | [F-Droid](https://f-droid.org/repository/browse/?fdid=ws.xsoh.etar)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/slide.png" width="auto" height="40")/>
+![Slide for Reddit](/img/slide.png)
 
 [Slide for Reddit](https://github.com/ccrama/Slide) is a rock-solid material-designed unofficial browser for Reddit with an easy to use UI and tons of customization. Slide is ad-free, open source, and is packed with many unique features.
 
@@ -123,7 +123,7 @@ Root explorer for advanced users
 
 [Github](https://github.com/QuantumBadger/RedReader) | [Google Play](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/aperture.jpg" width="auto" height="40")/>
+![Aperture Gallery](/img/aperture.jpg)
 
 [Aperture Gallery](https://github.com/MJonesDev/ApertureGallery) is an open source material design gallery. No distractions from your photos, and no heavy weight from loading. Personalize it to your liking by changing colours and by going into dark mode. Based on an old build of Impression by Aidan Follestad, Daniel Chao, and Marlon Jones.
 
@@ -131,7 +131,7 @@ Root explorer for advanced users
 
 [Github](https://github.com/MJonesDev/ApertureGallery)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/masterpassword.png" width="auto" height="40")/>
+![Master Password](/img/masterpassword.png)
 
 [Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
 
@@ -149,7 +149,7 @@ Root explorer for advanced users
 
 [Github](https://github.com/Antox/Antox) | [Google Play](https://play.google.com/store/apps/details?id=chat.tox.antox) | [F-Droid repo](https://pkg.tox.chat/fdroid/repo/)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Protonmail_logo.svg/440px-Protonmail_logo.svg.png" width="auto" height="40")/>
+![ProtonMail](/img/protonmail.png)
 
 [ProtonMail](https://protonmail.com) is the world’s largest encrypted email service with over 1 million users. The ProtonMail secure email app for Android brings easy-to-use email encryption to your mobile device by seamlessly integrating PGP end-to-end encryption. ProtonMail also provides a modern user interface with a full set of innovative features such as customizable swipe gestures and the ability to send expiring emails.
 
