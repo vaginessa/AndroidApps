@@ -20,43 +20,43 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 
 [Github](https://github.com/SilenceIM/Silence) | [Google Play](https://play.google.com/store/apps/details?id=org.smssecure.smssecure) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/chatsecure.png" width="auto" height="40")/>
+![ChatSecure](/img/chatsecure.png)
 
 [ChatSecure](https://chatsecure.org) is a free and open source messaging app that features OTR encryption over XMPP. You can connect to your existing accounts on Facebook or Google, create new accounts on [public XMPP servers](https://xmpp.net/directory.php) (including via [Tor](https://www.torproject.org/)), or even [connect to your own server](http://arstechnica.com/information-technology/2014/03/how-to-set-up-your-own-private-instant-messaging-server) for extra security. Unlike other apps that keep you stuck in their walled garden, ChatSecure is fully interoperable with other clients that support OTR and XMPP, such as [Adium](https://www.adium.im), [Jitsi](https://jitsi.org), and [more](https://www.wikiwand.com/en/Off-the-Record_Messaging#/Client_support).
 
 [Github](https://github.com/ChatSecure/ChatSecure-iOS) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/k9mail.png" width="auto" height="40")/>
+![K-9 Mail](/img/k9mail.png)
 
 [K-9 Mail](https://github.com/k9mail/k-9/) is an open-source e-mail client with search, IMAP push email, multi-folder sync, flagging, filing, signatures, bcc-self, [PGP](https://www.wikiwand.com/en/Pretty_Good_Privacy), mail on SD & more! K-9 supports IMAP, POP3 and Exchange 2003/2007 (with WebDAV).
 
 [Github](https://github.com/k9mail/k-9/) | [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/lightning.png" width="auto" height="40")/>
+![Lightning](/img/lightning.png)
 
 [Lightning](https://github.com/anthonycr/Lightning-Browser) is a simple, fast web browser that focuses on design, security, and efficiency. It uses material design, doesn't track you, give you lots of options to protect your privacy, and does it in under 2MB. It gets out of the way of the user.
 
 [Github](https://github.com/anthonycr/Lightning-Browser) | [Google Play](https://play.google.com/store/apps/details?id=acr.browser.barebones) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=lightning&fdid=acr.browser.lightning)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/newpipe.png" width="auto" height="40")/>
+![NewPipe](/img/newpipe.png)
 
 [NewPipe](https://newpipe.schabi.org) is a lightweight YouTube front-end for Android. It doesn't need the YouTube-API or any Google Play Services, as NewPipe only parses the YouTube website in order to gain the information it needs.
 
 [Github](https://github.com/theScrabi/NewPipe) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/adaway.png" width="auto" height="40")/>
+![AdAway](/img/adaway.png)
 
 [AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
 
 [Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/writeily.jpg" width="auto" height="40")/>
+![Writely](/img/writely.png)
 
-[Writely](http://writeily.me) is a minimalist Markdown editor for Android. Simply and elegantly compose notes in markdown or plain text. Organize by folders, save and access files from external storage, and restrict access with a PIN lock.
+[Writeily](http://writeily.me) is a minimalist Markdown editor for Android. Simply and elegantly compose notes in markdown or plain text. Organize by folders, save and access files from external storage, and restrict access with a PIN lock.
 
 [Github](https://github.com/plafue/writeily-pro) | [Google Play](https://play.google.com/store/apps/details?id=me.writeily) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.writeily)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/telegram.png" width="auto" height="40")/>
+![Telegram](/img/telegram.png)
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s super-fast, simple, secure and free.
 Telegram seamlessly syncs across all of your devices and can be used on desktops, tablets and phones alike. You can send an unlimited amount of messages, photos, videos and files of any type (.doc, .zip, .pdf, etc.). Telegram groups have up to 5000 people and you can create channels to broadcast messages to an unlimited number of subscribers.
