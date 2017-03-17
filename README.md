@@ -50,7 +50,7 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 
 [Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
 
-![Writely](/img/writeily.png)
+![Writely](/img/writeily.jpg)
 
 [Writeily](http://writeily.me) is a minimalist Markdown editor for Android. Simply and elegantly compose notes in markdown or plain text. Organize by folders, save and access files from external storage, and restrict access with a PIN lock.
 
