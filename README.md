@@ -117,7 +117,7 @@ Root explorer for advanced users
 
 [Github](https://github.com/ccrama/Slide) | [Google Play](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
 
-<img src="https://lh3.ggpht.com/BvrKqta6K73LA2KsUSv9P2sqQ5SWjf5Zj1zxjlOYAYVQO4tlpK3dLxM_J8agIcC933o=w300-rw" width="auto" height="40")/>
+![RedReader](/img/redreader.png)
 
 [RedReader](https://github.com/QuantumBadger/RedReader) is an unofficial client for the news site reddit.com.
 
@@ -137,13 +137,13 @@ Root explorer for advanced users
 
 [Github](https://github.com/Lyndir/MasterPassword/)
 
-<img src="https://lh3.googleusercontent.com/DPKR9wd6oDY6dbsJum0AwEq1Od7wHH1AuccSg7qI_E643rgCgH7CPotucBEh_qLO40kx=w300-rw" width="auto" height="40")/>
+![Open Camera](/img/opencamera.png)
 
 [Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets.
 
 [SourceForge](https://sourceforge.net/projects/opencamera/) | [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=open+camera&fdid=net.sourceforge.opencamera)
 
-<img src="https://camo.githubusercontent.com/23fbe32cc11eced94a8be58052d3fe70ab84ef3b/687474703a2f2f692e696d6775722e636f6d2f664668796756772e706e67" width="auto" height="40")/>
+![Antox](/img/antox.png)
 
 [Antox](https://github.com/Antox/Antox) is an Android 4+ client for Tox created by Mark Winter. It aims to bring the full multimedia support Tox offers to your device, although it's still currently in heavy development. Antox is currently available for alpha testing on Google Play and F-Droid.
 
@@ -157,13 +157,13 @@ Since we were founded by CERN scientists in 2013, we have been joined by citizen
 
 [Github](https://github.com/ProtonMail/WebClient) | [Google Play](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
-<img src="https://lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E=w300-rw" width="auto" height="40")/>
+![Orbot](/img/orbot.png)
 
 [Orbot](https://guardianproject.info/apps/orbot/) is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as traffic analysis. Orbot creates a truly private mobile internet connection.
 
 [Github](https://github.com/n8fr8/orbot) | [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android)
 
-<img src="https://lh3.googleusercontent.com/L1hUQxKqN0qrTOfiyFetR6u9SOeW3b3EZd6bbtoWU8_Af5nd4FCz_du3jocz9qszO2Y=w300-rw" width="auto" height="40")/>
+![Orfox](/img/orfox.png)
 
 [Orfox](https://guardianproject.info/2015/06/30/orfox-aspiring-to-bring-tor-browser-to-android/) is a new privacy-enhanced browser for Android, based on Mozilla Firefox, configured by default to work with Orbot: Tor for Android.
 
@@ -173,7 +173,7 @@ In as many ways as possible, we adhere to the [design goals of Tor Browser](http
 
 [Github](https://github.com/guardianproject/Orfox) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.orfox)
 
-<img src="https://brave.com/assets/img/brave_logo_horz.svg" width="auto" height="40")/>
+![Brave](/img/brave.png)
 
 [Brave](https://brave.com) has joined forces with LinkBubble to bring you a faster web - by blocking the ads and trackers that get in your way plus all the features you love from LinkBubble. Just go to the settings to turn on or off privacy features like ad blocking, tracker protection and Https Everywhere.
 
@@ -183,7 +183,7 @@ Brave is designed for both speed and security, so you can enjoy a lightning fast
 
 [Github](https://github.com/brave/browser-android) | [Google Play](https://play.google.com/store/apps/details?id=com.linkbubble.playstore)
 
-<img src="https://lh3.googleusercontent.com/cRGR6rWCpk6CfIPMLvTzkNNLcCjTOG_RvvQrKLQP5FxGv7PchQqnYMvy80Mn9jI1pP9l=w300-rw" width="auto" height="40")/>
+![Ghost Commander](/img/ghostcommander.png)
 
 [Ghost Commander](https://sites.google.com/site/ghostcommander1) is a file manager with two panels for the Android™ platform. Its development was inspired by the famous (Norton|Midnight|Total) Commander desktop applications, so if you are familiar with those great programs, you will find Ghost Commander a familiar and very convenient environment.
 
@@ -193,13 +193,13 @@ All the main file operations in this application are bound to numerical keys, wi
 
 [SourceForge](https://sourceforge.net/projects/ghostcommander) | [Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.ghostsq.commander)
 
-<img src="https://lh4.ggpht.com/EO1uOieubXpbKirYORUaEHZX7udIUlHcd7pgjZXQ71DYocMp5PDe610AVPVAozAL-l0=w300-rw" width="auto" height="40")/>
+![Twidere](/img/twidere.png)
 
 [Twidere](http://twidere.mariotaku.org) is a powerful Twitter/StatusNet/Fanfou app for Android 4.0+, which gives you a full Material experience and nearly complete (or even better) Twitter feature.
 
 [Github](https://github.com/mariotaku/twidere) | [Google Play](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
 
-<img src="https://lh3.googleusercontent.com/KEKTKfmJxEQoHB7GwxXxfYUQd0VjFDqsnm8EI8gm2PXiKNA6bcKsNrMw1KazzdVv0ME=w300-rw" width="auto" height="40")/>
+![Omni-Notes](/img/omninotes.png)
 
 [Omni-Notes](https://federicoiosue.github.io/Omni-Notes/) is a note taking open-source application aimed to have both a simple interface but keeping smart behavior.
 
@@ -207,37 +207,37 @@ The project was created by the absence of such applications compatible with old 
 
 [Github](https://github.com/federicoiosue/Omni-Notes) | [Google Play](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)
 
-<img src="https://lh3.googleusercontent.com/UGqSCx96rFlYX_P8YIzUBUo9g-q1J1Ba_dV1z0cxdBhWOmxZQODsPCDT7AQky7lBZA=w300-rw" width="auto" height="40")/>
+![Hack.chat](/img/hackchat.png)
 
 [Hack.chat](https://hack.chat) is a minimal, distraction-free chat application. Create a chatroom with just a name, there are no preset channel so just enter a chatroom name and a nickname, share the link and communicate.
 
 [Github](https://github.com/AndrewBelt/hack.chat) | [Google Play](https://play.google.com/store/apps/details?id=chat.hack.hackchat) | [Google Play](https://play.google.com/store/apps/details?id=com.niobbu.nippychat)
 
-<img src="https://lh4.ggpht.com/2jbUS9Hz8nWQEZKQR17xpxEnXhlW3tisxmhi-NNrMaA6TQT2RtewoHAezDXCbEPJxg=w300-rw" width="auto" height="40")/>
+![Terminal Emulator](/img/terminal.png)
 
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) is a terminal emulator for communicating with the built-in Android shell. It emulates a reasonably large subset of Digital Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs" and "NetHack" will display properly.
 
 [Github](https://github.com/jackpal/Android-Terminal-Emulator) | [Google Play](https://play.google.com/store/apps/details?id=jackpal.androidterm)
 
-<img src="https://lh3.googleusercontent.com/Rgali5rKl8iNo8kGuocH_4V9md6HbeW0YE-Bb6PGVzHoG5ng8bcNk3ywOx0-AOnqu-8t=w300-rw" width="auto" height="40")/>
+![Simplenote](/img/simplenote.png)
 
 [Simplenote](https://simplenote.com) is an easy way to keep notes, lists, ideas, and more. Keep notes on the web, your mobile device, and your computer. Find notes quickly with instant searching and simple tags. Share a list, post some instructions, or publish your thoughts.
 
 [Github](https://github.com/automattic/simplenote-android) | [Google Play](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
 
-<img src="http://antennapod.org/assets/img/antennapod-logo.png" width="auto" height="40")/>
+![Antennapod](/img/antennapod.png)
 
 [AntennaPod](http://antennapod.org) is a podcast manager and player that gives you instant access to millions of free and paid podcasts, from independent podcasters to large publishing houses such as the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the iTunes podcast database, gPodder, OPML files or simple RSS URLs. Save effort, battery power and mobile data usage with powerful automation controls for downloading episodes (specify times, intervals and WiFi networks) and deleting episodes (based your favourites and delay settings). But most importantly: Download, stream or queue episodes and enjoy them the way you like with adjustable playback speeds, chapter support and a sleep timer.
 
 [Github](https://github.com/antennapod/AntennaPod) | [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.danoeh.antennapod)
 
-<img src="https://lh6.ggpht.com/8Be88NJE_lh2zVzRCQtBKXN5U80ym4WnRpRuZnwaXjE01jDwjk7qotrOqkUJywVkQTsI=w40-rw" width="auto" height="40")/>
+![Financius](/img/financius.png)
 
 [Financius - Expense Manager](https://github.com/mvarnagiris/financius-public) is a simple application that helps you log and track your expenses and keep an eye on your balance.
 
 [Github](https://github.com/mvarnagiris/financius-public) | [Google Play](https://play.google.com/store/apps/details?id=com.code44.finance)
 
-<img src="https://lh3.googleusercontent.com/EhF-MEIXADWULQRdAUGRUcYAmpp0odiBywxH6-mdxvwvxrwVVma1V57Vn28At70buRI=w300" width="auto" height="40")/>
+![Google I/O](/img/googleio.png)
 
 [Google I/O](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched) is a developer conference held each year with two days of deep technical content featuring technical sessions and hundreds of demonstrations from developers showcasing their technologies.
 
@@ -245,37 +245,37 @@ This project is the Android app for the conference. The app supports devices run
 
 [GitHub](https://github.com/google/iosched) | [Google Play](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
 
-<img src="https://syncthing.net/images/logo-horizontal.svg" width="auto" height="40")/>
+![Syncthing](/img/syncthing.png)
 
 [Syncthing](https://syncthing.net) replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
 
 [Github](https://github.com/syncthing/syncthing) | [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
 
-<img src="https://davdroid.bitfire.at/fileadmin/user_upload/DAVdroid_logo_2.png" width="auto" height="40")/>
+![DAVdroid](/img/davdroid.png)
 
 [DAVdroid](https://davdroid.bitfire.at) is the only all-in-one synchronization solution for your contacts (CardDAV), calendars (CalDAV) and your tasks (based on VTODO). The app is easy to set up and integrates perfectly with your favorite calendar/contacts app (including default apps). It can also be used seperately, if you either have CalDAV, CardDAV or only Tasks.
 
 [GitLab](https://gitlab.com/bitfireAT/davdroid) | [Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)
 
-<img src="https://lh3.googleusercontent.com/ipYTS445gx9TBC42pvBQduVndzzuofmYvZKK_WwJa0PrWjujjCS2s3RapDE4-QOWZg=w300-rw" width="auto" height="40")/>
+![Tasks](/img/tasks.png)
 
 [Tasks](https://github.com/tasks/tasks) is free and open source task management software based on the same code as Astrid.
 
 [Github](https://github.com/tasks/tasks) | [Google Play](https://play.google.com/store/apps/details?id=org.tasks) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.tasks)
 
-<img src="https://lh3.googleusercontent.com/tGoUnz8xDfiIHfmtH4MnA5p7SLt1i-7QOkPF_D6wACOIYMa2uJVtzMeYvNmBLEpzdQ=w300-rw" width="auto" height="40")/>
+![Transportr](/img/transportr.png)
 
 [Transportr](https://transportr.grobox.de) is the public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. Currently, it works best in Europe, but also supports many places world-wide. If you live in an unsupported area, consider adding it to Transportr. It finds directions from your home, your current position or a given station to wherever you want to go. You can also save entire trips as favorites and find next trips with one click. Discover nearby stations and show upcoming departures including the delays (if there are any).
 
 [Github](https://github.com/grote/Transportr) | [Google Play](https://play.google.com/store/apps/details?id=de.grobox.liberario) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
 
-<img src="https://lh3.googleusercontent.com/lS4PlMSMAMfTvEnAqYz95LwLY-PLaN-GHMNhHPKfFHOL5jvlqdeXfd8a3zbfdO5GU4o=w300-rw" width="auto" height="40")/>
+![KDE Connect](/img/kdeconnect.png)
 
 [KDE Connect](https://community.kde.org/KDEConnect) is a project that aims to communicate all your devices. For example, with KDE Connect you can receive your phone notifications on your computer, or just use your phone as a remote control for your desktop. To achieve this, KDE Connect implements a secure communication protocol over the network, and allows any developer to create plugins on top of it. Currently there are KDE Connect clients on KDE, Android and Blackberry, and soon we will support iPhone as well.
 
 [Source](https://quickgit.kde.org/?p=kdeconnect-android.git) | [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.kde.kdeconnect_tp)
 
-<img src="https://lh3.googleusercontent.com/yi-ViA841p68znBh2zb3DSkUUD2RUrjQGVHXprEuTnuUoadBPiVfEqeuVlhGWqFBBB9q=w300-rw" width="auto" height="40")/>
+![Termux](/img/termux.png)
 
 [Termux](https://termux.com) is a terminal emulator and Linux environment bringing powerful terminal access to Android.
 
@@ -297,25 +297,25 @@ Tinkerable. Develop by compiling C files with clang or gcc and build your own pr
 
 [Github](https://github.com/termux/termux-app) | [Google Play](https://play.google.com/store/apps/details?id=com.termux) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.termux)
 
-<img src="https://lh6.ggpht.com/oRJZ9MTzxRRz3xaJ4my7ptROkGh7wtphGyzEzCeh0BmC0GYN1ZyJVOjWypBseBErmCoi=w300-rw" width="auto" height="40")/>
+![Tomahawk](/img/tomahawk.png)
 
 [Tomahawk](https://www.tomahawk-player.org), the critically acclaimed multi-source music player, is now available on Android. Given the name of an artist, album or song Tomahawk will find the best available source and play it - whether that be from Spotify, Deezer, GMusic, Soundcloud, Tidal, Official.fm, Jamendo, Beets, Ampache, Subsonic or your phone’s local storage. Tomahawk for Android also syncs your history, your loved tracks, artists, albums and your playlists to/from the desktop version of Tomahawk via our new music community, Hatchet. On Hatchet you can hear your friends' favorite tracks and see what they're currently listening to.
 
 [Github](https://github.com/tomahawk-player/tomahawk-android) | [Google Play](https://play.google.com/store/apps/details?id=org.tomahawk.tomahawk_android)
 
-<img src="https://jitsi.org/wiki/pub/sip-communicator/logo3.png" width="auto" height="40")/>
+![Jitsi](/img/jitsi.png)
 
 [Jitsi](https://jitsi.org) for Android is an Android port of the Jitsi project: The most feature-rich communicator with support for encrypted audio/video, chat and presence over SIP and XMPP.
 
 [Github](https://github.com/jitsi/jitsi-android) | [Download](https://download.jitsi.org/jitsi/nightly/android/)
 
-<img src="https://lh3.googleusercontent.com/J3jhzPEcRxFAPmLhhdebivw-6dzK2DO97MGkucF2Yp-orZvdyrFIIP-_PQ8NdTftmO0=w300-rw" width="auto" height="40")/>
+![Wordpress](/img/wordpress.png)
 
 [WordPress](https://apps.wordpress.com/mobile) for Android puts the power of publishing in your hands, making it easy to create and consume content. Write, edit, and publish posts to your site, check stats, and get inspired with great posts in the Reader. What’s more? It’s open source. WordPress for Android supports WordPress.com and self-hosted WordPress.org sites running WordPress 3.5 or higher.
 
 [Github](https://github.com/wordpress-mobile/WordPress-Android) | [Google Play](https://play.google.com/store/apps/details?id=org.wordpress.android)
 
-<img src="https://lh3.googleusercontent.com/LWZVHReHUSJywMsSidvFj5RU0ctMotKGySfcIp5RQeu39aMyiwL773n0z1SY7m8fIA=w300-rw" width="auto" height="40")/>
+![Kiss](/img/kiss.png)
 
 [KISS](https://github.com/Neamar/KISS) is a blazingly fast launcher for android requiring nearly no memory to run.  
 Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the "phone" button. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.
