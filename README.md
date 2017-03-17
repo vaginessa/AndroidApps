@@ -14,7 +14,7 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 
 [Github](https://github.com/WhisperSystems/Signal-Android) | [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
-<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/silence.png" width="auto" height="40")/>
+![Silence](/img/silence.png)
 
 [Silence](https://silence.im) (formerly SMSSecure) is an SMS/MMS application that allows you to protect your privacy while communicating with friends. Using Silence, you can send SMS messages and share media or attachments with complete privacy.
 
