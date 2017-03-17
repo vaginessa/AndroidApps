@@ -251,6 +251,12 @@ This project is the Android app for the conference. The app supports devices run
 
 [Github](https://github.com/syncthing/syncthing) | [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
 
+![Seafile](/img/seafile.png)
+
+[Seafile](https://www.seafile.com) is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
+
+[Github](https://github.com/haiwen/seadroid) | [Google Play](https://play.google.com/store/apps/details?id=com.seafile.seadroid2) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.seafile.seadroid2)
+
 ![DAVdroid](/img/davdroid.png)
 
 [DAVdroid](https://davdroid.bitfire.at) is the only all-in-one synchronization solution for your contacts (CardDAV), calendars (CalDAV) and your tasks (based on VTODO). The app is easy to set up and integrates perfectly with your favorite calendar/contacts app (including default apps). It can also be used seperately, if you either have CalDAV, CardDAV or only Tasks.
