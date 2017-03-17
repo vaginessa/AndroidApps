@@ -1,9 +1,11 @@
 <html>
 <head>
 <style>
-img { max-height: 40px; width: auto; }
+  img { max-height: 40px; width: auto; }
 </style>
 </head>
+<body>
+</body>
 </html>
 
 # Open source Android apps
