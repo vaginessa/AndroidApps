@@ -3,7 +3,7 @@
 A list of interesting and open source Android apps.
 
 ---
-![Image of Yaktocat](https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/f-droid.png)
+![Image of Yaktocat](https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/f-droid.png =100x20)
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/f-droid.png" width="auto" height="40")/>
 
 [F-Droid](https://f-droid.org) is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
