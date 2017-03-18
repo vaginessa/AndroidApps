@@ -2,10 +2,9 @@
 
 A list of interesting and open source Android apps.
 
----
-## Index
+## Table of Contents
 
-[Messaging](##messaging)
+- [Messaging](#messaging)
 
 ---
 
