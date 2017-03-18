@@ -8,8 +8,15 @@ A list of interesting and open source Android apps.
   - [Signal](#signal)
   - [Silence](#silence)
   - [ChatSecure](#chatsecure)
+  - [Telegram](#telegram)
+  - [Conversations](#conversations)
+  - [Antox](#antox)
 - [Email](#email)
   - [K-9 Mail](#k-9-mail)
+  - [ProtonMail](#protonmail)
+- [Web Browser](#web-browser)
+  - [Lightning](#lightning)
+  - [Brave](#brave)
 
 ---
 
@@ -44,6 +51,35 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 
 [Github](https://github.com/ChatSecure/ChatSecure-iOS) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im)
 
+![Telegram](/img/telegram.png)
+
+### Telegram
+
+[Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s super-fast, simple, secure and free.
+Telegram seamlessly syncs across all of your devices and can be used on desktops, tablets and phones alike. You can send an unlimited amount of messages, photos, videos and files of any type (.doc, .zip, .pdf, etc.). Telegram groups have up to 5000 people and you can create channels to broadcast messages to an unlimited number of subscribers.
+
+> "It's worth a mention that Telegram's server side is not open-source. However, that doesn't really matter for security purposes, because the end-to-end encryption between client-side end users is tested and works flawlessly in Telegram regardless of the software on the server." — [enigmatoid](https://reddit.com/r/opensource/comments/51a3dv/a_list_of_interesting_and_open_source_android_apps/d7agjbq)
+
+> "It's been shown that [Telegram is very insecure and shouldn't be used](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) if security and privacy are your primary concerns, which is something that Telegram has (and still does) advertised as a major feature." — [JackDostoevsky](https://fr.reddit.com/r/fossdroid/comments/5zyfum/a_list_of_interesting_and_open_source_android_apps/df26ii8)
+
+[Github](https://github.com/DrKLO/Telegram) | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+
+![Conversations](/img/conversations.png)
+
+### Conversations
+
+[Conversation](https://conversations.im) is a free and open source Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience. Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
+
+[Github](https://github.com/siacs/Conversations) | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
+
+![Antox](/img/antox.png)
+
+### Antox
+
+[Antox](https://github.com/Antox/Antox) is an Android 4+ client for Tox created by Mark Winter. It aims to bring the full multimedia support Tox offers to your device, although it's still currently in heavy development. Antox is currently available for alpha testing on Google Play and F-Droid.
+
+[Github](https://github.com/Antox/Antox) | [Google Play](https://play.google.com/store/apps/details?id=chat.tox.antox) | [F-Droid repo](https://pkg.tox.chat/fdroid/repo/)
+
 ## Email
 
 ![K-9 Mail](/img/k9mail.png)
@@ -53,6 +89,16 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 [K-9 Mail](https://github.com/k9mail/k-9/) is an open-source e-mail client with search, IMAP push email, multi-folder sync, flagging, filing, signatures, bcc-self, [PGP](https://www.wikiwand.com/en/Pretty_Good_Privacy), mail on SD & more! K-9 supports IMAP, POP3 and Exchange 2003/2007 (with WebDAV).
 
 [Github](https://github.com/k9mail/k-9/) | [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
+
+![ProtonMail](/img/protonmail.png)
+
+### ProtonMail
+
+[ProtonMail](https://protonmail.com) is the world’s largest encrypted email service with over 1 million users. The ProtonMail secure email app for Android brings easy-to-use email encryption to your mobile device by seamlessly integrating PGP end-to-end encryption. ProtonMail also provides a modern user interface with a full set of innovative features such as customizable swipe gestures and the ability to send expiring emails.
+
+Since we were founded by CERN scientists in 2013, we have been joined by citizens from around the globe who have supported our mission to protect online privacy. Our mobile app was made possible by a record-breaking $550,000 donation campaign. With the ProtonMail app, you can now create your own free ProtonMail email account and start experiencing the secure email of the future.
+
+[Github](https://github.com/ProtonMail/WebClient) | [Google Play](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
 ## Web Browser
 
@@ -76,7 +122,11 @@ Brave is designed for both speed and security, so you can enjoy a lightning fast
 
 [Github](https://github.com/brave/browser-android) | [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
 
+## Video
+
 ![NewPipe](/img/newpipe.png)
+
+### NewPipe
 
 [NewPipe](https://newpipe.schabi.org) is a lightweight YouTube front-end for Android. It doesn't need the YouTube-API or any Google Play Services, as NewPipe only parses the YouTube website in order to gain the information it needs.
 
@@ -88,28 +138,15 @@ Brave is designed for both speed and security, so you can enjoy a lightning fast
 
 [Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
 
+## Note Taking
+
 ![Writely](/img/writeily.jpg)
+
+### Writeily
 
 [Writeily](http://writeily.me) is a minimalist Markdown editor for Android. Simply and elegantly compose notes in markdown or plain text. Organize by folders, save and access files from external storage, and restrict access with a PIN lock.
 
 [Github](https://github.com/plafue/writeily-pro) | [Google Play](https://play.google.com/store/apps/details?id=me.writeily) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.writeily)
-
-![Telegram](/img/telegram.png)
-
-[Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s super-fast, simple, secure and free.
-Telegram seamlessly syncs across all of your devices and can be used on desktops, tablets and phones alike. You can send an unlimited amount of messages, photos, videos and files of any type (.doc, .zip, .pdf, etc.). Telegram groups have up to 5000 people and you can create channels to broadcast messages to an unlimited number of subscribers.
-
-> "It's worth a mention that Telegram's server side is not open-source. However, that doesn't really matter for security purposes, because the end-to-end encryption between client-side end users is tested and works flawlessly in Telegram regardless of the software on the server." — [enigmatoid](https://reddit.com/r/opensource/comments/51a3dv/a_list_of_interesting_and_open_source_android_apps/d7agjbq)
-
-> "It's been shown that [Telegram is very insecure and shouldn't be used](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) if security and privacy are your primary concerns, which is something that Telegram has (and still does) advertised as a major feature." — [JackDostoevsky](https://fr.reddit.com/r/fossdroid/comments/5zyfum/a_list_of_interesting_and_open_source_android_apps/df26ii8)
-
-[Github](https://github.com/DrKLO/Telegram) | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
-
-![Conversations](/img/conversations.png)
-
-[Conversation](https://conversations.im) is a free and open source Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience. Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
-
-[Github](https://github.com/siacs/Conversations) | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
 
 ![OsmAnd](/img/osmand.png)
 
@@ -182,20 +219,6 @@ Root explorer for advanced users
 [Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets.
 
 [SourceForge](https://sourceforge.net/projects/opencamera/) | [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=open+camera&fdid=net.sourceforge.opencamera)
-
-![Antox](/img/antox.png)
-
-[Antox](https://github.com/Antox/Antox) is an Android 4+ client for Tox created by Mark Winter. It aims to bring the full multimedia support Tox offers to your device, although it's still currently in heavy development. Antox is currently available for alpha testing on Google Play and F-Droid.
-
-[Github](https://github.com/Antox/Antox) | [Google Play](https://play.google.com/store/apps/details?id=chat.tox.antox) | [F-Droid repo](https://pkg.tox.chat/fdroid/repo/)
-
-![ProtonMail](/img/protonmail.png)
-
-[ProtonMail](https://protonmail.com) is the world’s largest encrypted email service with over 1 million users. The ProtonMail secure email app for Android brings easy-to-use email encryption to your mobile device by seamlessly integrating PGP end-to-end encryption. ProtonMail also provides a modern user interface with a full set of innovative features such as customizable swipe gestures and the ability to send expiring emails.
-
-Since we were founded by CERN scientists in 2013, we have been joined by citizens from around the globe who have supported our mission to protect online privacy. Our mobile app was made possible by a record-breaking $550,000 donation campaign. With the ProtonMail app, you can now create your own free ProtonMail email account and start experiencing the secure email of the future.
-
-[Github](https://github.com/ProtonMail/WebClient) | [Google Play](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
 ![Orbot](/img/orbot.png)
 
