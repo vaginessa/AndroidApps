@@ -63,6 +63,8 @@ Telegram seamlessly syncs across all of your devices and can be used on desktops
 
 > "It's worth a mention that Telegram's server side is not open-source. However, that doesn't really matter for security purposes, because the end-to-end encryption between client-side end users is tested and works flawlessly in Telegram regardless of the software on the server." — [enigmatoid](https://reddit.com/r/opensource/comments/51a3dv/a_list_of_interesting_and_open_source_android_apps/d7agjbq)
 
+> "It's been shown that [Telegram is very insecure and shouldn't be used](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) if security and privacy are your primary concerns, which is something that Telegram has (and still does) advertised as a major feature." — [JackDostoevsky](https://fr.reddit.com/r/fossdroid/comments/5zyfum/a_list_of_interesting_and_open_source_android_apps/df26ii8)
+
 [Github](https://github.com/DrKLO/Telegram) | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 ![Conversations](/img/conversations.png)
