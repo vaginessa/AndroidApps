@@ -58,6 +58,7 @@ A list of interesting and open source Android apps.
   - [AFWall+](#afwall)
   - [AdAway](#adaway)
   - [Master Password](#master-password)
+  - [AIMSICD](#aimsicd)
 - [Terminal](#terminal)
   - [Terminal Emulator](#terminal-emulator)
   - [Termux](#termux)
@@ -459,6 +460,30 @@ Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced ipta
 [Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
 
 [Github](https://github.com/Lyndir/MasterPassword/)
+
+![AIMSICD](/img/aimsicd.png)
+
+### AIMSICD
+
+[AIMSICD](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/) is an Android app to detect IMSI-Catchers. These devices are false mobile towers (base stations) acting between the target mobile phone(s) and the real towers of service providers. As such they are considered a Man-In-The-Middle (MITM) attack. This surveillance technology is also known as "StingRay", "Cellular Interception" and alike.
+
+[Github](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.SecUpwN.AIMSICD)
+
+![Open Key Chain](/img/openkeychain.png)
+
+### OpenKeyChain
+
+[OpenKeychain](https://www.openkeychain.org) helps you communicate more privately and securely. It uses encryption to ensure that your messages can be read only by the people you send them to, others can send you messages that only you can read, and these messages can be digitally signed so the people getting them are sure who sent them. OpenKeychain is based on the well established OpenPGP standard making encryption compatible across your devices and systems.
+
+[Github](https://github.com/open-keychain/open-keychain) | [Google Play](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
+
+![FreeOTP](/img/freeotp.png)
+
+### FreeOTP
+
+[FreeOTP](https://freeotp.github.io) is a two-factor authentication application for systems utilizing one-time password protocols. Tokens can be added easily by scanning a QR code. FreeOTP implements open standards: HOTP and TOTP. This means that no proprietary server-side component is necessary: use any server-side component that implements these standards. We recommend FreeIPA.
+
+[Github](https://github.com/freeotp/freeotp-android) | [Google Play](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp)
 
 ## Terminal
 
