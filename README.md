@@ -30,8 +30,9 @@ A list of interesting and open source Android apps.
 - [Photography](#photography)
   - [Open Camera](#open-camera)
   - [Aperture Gallery](#aperture-gallery)
-- [Music](#music)
+- [Audio](#audio)
   - [Tomahawk](#tomahawk)
+  - [Antennapod](#antennapod)
 - [Note Taking](#note-taking)
   - [Writeily](#writeily)
   - [Omni-Notes](#omni-notes)
@@ -39,6 +40,29 @@ A list of interesting and open source Android apps.
 - [Task Manager](task-manager)
   - [Mirakel](#mirakel)
   - [Tasks](#tasks)
+- [File Sync](#file-sync)
+  - [Syncthing](#syncthing)
+  - [Seafile](#seafile)
+- [Utilities](#productivity)
+  - [KISS](#kiss)
+  - [Amaze File Manager](#amaze-file-manager)
+  - [Ghost Commander](#ghost-commander)
+  - [Etar Calendar](#etar-calendar)
+  - [DAVdroid](#davdroid)
+  - [AFWall+](#afwall)
+  - [AdAway](#adaway)
+  - [Master Password](#master-password)
+  - [KDE Connect](#kde-connect)
+- [Productivity](#productivity)
+  - [Financius](#financius)
+  - [OsmAnd](#osmand)
+  - [Transportr](#transportr)
+- [Terminal](#terminal)
+  - [Terminal Emulator](#terminal-emulator)
+  - [Termux](#termux)
+- [Other](#other)
+  - [Google I/O](#google-i-o)
+  - [Wordpress](#wordpress)
 
 ---
 
@@ -216,7 +240,7 @@ In as many ways as possible, we adhere to the [design goals of Tor Browser](http
 
 [Github](https://github.com/theScrabi/NewPipe) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
 
-## Photography
+## Photo
 
 ![Open Camera](/img/opencamera.png)
 
@@ -236,7 +260,7 @@ In as many ways as possible, we adhere to the [design goals of Tor Browser](http
 
 [Github](https://github.com/MJonesDev/ApertureGallery)
 
-## Music
+## Audio
 
 ![Tomahawk](/img/tomahawk.png)
 
@@ -245,6 +269,14 @@ In as many ways as possible, we adhere to the [design goals of Tor Browser](http
 [Tomahawk](https://www.tomahawk-player.org), the critically acclaimed multi-source music player, is now available on Android. Given the name of an artist, album or song Tomahawk will find the best available source and play it - whether that be from Spotify, Deezer, GMusic, Soundcloud, Tidal, Official.fm, Jamendo, Beets, Ampache, Subsonic or your phone’s local storage. Tomahawk for Android also syncs your history, your loved tracks, artists, albums and your playlists to/from the desktop version of Tomahawk via our new music community, Hatchet. On Hatchet you can hear your friends' favorite tracks and see what they're currently listening to.
 
 [Github](https://github.com/tomahawk-player/tomahawk-android) | [Google Play](https://play.google.com/store/apps/details?id=org.tomahawk.tomahawk_android)
+
+![Antennapod](/img/antennapod.png)
+
+### Antennapod
+
+[AntennaPod](http://antennapod.org) is a podcast manager and player that gives you instant access to millions of free and paid podcasts, from independent podcasters to large publishing houses such as the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the iTunes podcast database, gPodder, OPML files or simple RSS URLs. Save effort, battery power and mobile data usage with powerful automation controls for downloading episodes (specify times, intervals and WiFi networks) and deleting episodes (based your favourites and delay settings). But most importantly: Download, stream or queue episodes and enjoy them the way you like with adjustable playback speeds, chapter support and a sleep timer.
+
+[Github](https://github.com/antennapod/AntennaPod) | [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.danoeh.antennapod)
 
 ## Note Taking
 
@@ -292,19 +324,38 @@ The project was created by the absence of such applications compatible with old 
 
 [Github](https://github.com/tasks/tasks) | [Google Play](https://play.google.com/store/apps/details?id=org.tasks) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.tasks)
 
-![OsmAnd](/img/osmand.png)
+## File Sync
 
-[OsmAnd](http://osmand.net) (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data. All map data can be stored on your device's memory card for offline use. Via your device's GPS, OsmAnd offers routing, with optical and voice guidance, for car, bike, and pedestrian. All the main functionalities work both online and offline (no internet needed).
+![Syncthing](/img/syncthing.png)
 
-[Github](https://github.com/osmandapp/Osmand) | [Google Play](https://play.google.com/store/apps/details?id=net.osmand.plus)
+### Syncthing
 
-![AFWall+](/img/afwall.jpg)
+[Syncthing](https://syncthing.net) replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
 
-Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced iptables editor (GUI) for Android. It provides fine-grained control over which Android apps are allowed to access the network. The original codebase was derived from [DroidWall](https://code.google.com/archive/p/droidwall/) by Rodrigo Rosauro. DroidWall was sold to AVAST in December 2011, and is no longer actively maintained.
+[Github](https://github.com/syncthing/syncthing) | [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
 
-[Github](https://github.com/ukanth/afwall) | [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
+![Seafile](/img/seafile.png)
+
+### Seafile
+
+[Seafile](https://www.seafile.com) is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
+
+[Github](https://github.com/haiwen/seadroid) | [Google Play](https://play.google.com/store/apps/details?id=com.seafile.seadroid2) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.seafile.seadroid2)
+
+## Utilities
+
+![Kiss](/img/kiss.png)
+
+### KISS
+
+[KISS](https://github.com/Neamar/KISS) is a blazingly fast launcher for android requiring nearly no memory to run.  
+Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the "phone" button. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.
+
+[Github](https://github.com/Neamar/KISS) | [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss) | [F-Droid](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
 
 ![Amaze File Manager](/img/amaze.png)
+
+### Amaze File Manager
 
 [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) is a light and smooth file manager following the Material Design guidelines.
 
@@ -320,19 +371,9 @@ Root explorer for advanced users
 
 [Github](https://github.com/arpitkh96/AmazeFileManager) | [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.amaze.filemanager)
 
-![Etar Calendar](/img/etar.jpg)
-
-[Etar Calendar](https://github.com/xsoh/Etar-Calendar) is a material designed calendar based on the ASOP calendar.
-
-[Github](https://github.com/xsoh/Etar-Calendar) | [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar) | [F-Droid](https://f-droid.org/repository/browse/?fdid=ws.xsoh.etar)
-
-![Master Password](/img/masterpassword.png)
-
-[Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
-
-[Github](https://github.com/Lyndir/MasterPassword/)
-
 ![Ghost Commander](/img/ghostcommander.png)
+
+### Ghost Commander
 
 [Ghost Commander](https://sites.google.com/site/ghostcommander1) is a file manager with two panels for the Android™ platform. Its development was inspired by the famous (Norton|Midnight|Total) Commander desktop applications, so if you are familiar with those great programs, you will find Ghost Commander a familiar and very convenient environment.
 
@@ -342,63 +383,93 @@ All the main file operations in this application are bound to numerical keys, wi
 
 [SourceForge](https://sourceforge.net/projects/ghostcommander) | [Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.ghostsq.commander)
 
-![Terminal Emulator](/img/terminal.png)
+![Etar Calendar](/img/etar.jpg)
 
-[Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) is a terminal emulator for communicating with the built-in Android shell. It emulates a reasonably large subset of Digital Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs" and "NetHack" will display properly.
+### Etar Calendar
 
-[Github](https://github.com/jackpal/Android-Terminal-Emulator) | [Google Play](https://play.google.com/store/apps/details?id=jackpal.androidterm)
+[Etar Calendar](https://github.com/xsoh/Etar-Calendar) is a material designed calendar based on the ASOP calendar.
 
-![Antennapod](/img/antennapod.png)
-
-[AntennaPod](http://antennapod.org) is a podcast manager and player that gives you instant access to millions of free and paid podcasts, from independent podcasters to large publishing houses such as the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the iTunes podcast database, gPodder, OPML files or simple RSS URLs. Save effort, battery power and mobile data usage with powerful automation controls for downloading episodes (specify times, intervals and WiFi networks) and deleting episodes (based your favourites and delay settings). But most importantly: Download, stream or queue episodes and enjoy them the way you like with adjustable playback speeds, chapter support and a sleep timer.
-
-[Github](https://github.com/antennapod/AntennaPod) | [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.danoeh.antennapod)
-
-![Financius](/img/financius.png)
-
-[Financius - Expense Manager](https://github.com/mvarnagiris/financius-public) is a simple application that helps you log and track your expenses and keep an eye on your balance.
-
-[Github](https://github.com/mvarnagiris/financius-public) | [Google Play](https://play.google.com/store/apps/details?id=com.code44.finance)
-
-![Google I/O](/img/googleio.png)
-
-[Google I/O](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched) is a developer conference held each year with two days of deep technical content featuring technical sessions and hundreds of demonstrations from developers showcasing their technologies.
-
-This project is the Android app for the conference. The app supports devices running Android 4.0+, and is optimized for phones and tablets of all shapes and sizes.
-
-[GitHub](https://github.com/google/iosched) | [Google Play](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
-
-![Syncthing](/img/syncthing.png)
-
-[Syncthing](https://syncthing.net) replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
-
-[Github](https://github.com/syncthing/syncthing) | [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
-
-![Seafile](/img/seafile.png)
-
-[Seafile](https://www.seafile.com) is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
-
-[Github](https://github.com/haiwen/seadroid) | [Google Play](https://play.google.com/store/apps/details?id=com.seafile.seadroid2) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.seafile.seadroid2)
+[Github](https://github.com/xsoh/Etar-Calendar) | [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar) | [F-Droid](https://f-droid.org/repository/browse/?fdid=ws.xsoh.etar)
 
 ![DAVdroid](/img/davdroid.png)
+
+### DAVdroid
 
 [DAVdroid](https://davdroid.bitfire.at) is the only all-in-one synchronization solution for your contacts (CardDAV), calendars (CalDAV) and your tasks (based on VTODO). The app is easy to set up and integrates perfectly with your favorite calendar/contacts app (including default apps). It can also be used seperately, if you either have CalDAV, CardDAV or only Tasks.
 
 [GitLab](https://gitlab.com/bitfireAT/davdroid) | [Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)
 
-![Transportr](/img/transportr.png)
+![AFWall+](/img/afwall.jpg)
 
-[Transportr](https://transportr.grobox.de) is the public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. Currently, it works best in Europe, but also supports many places world-wide. If you live in an unsupported area, consider adding it to Transportr. It finds directions from your home, your current position or a given station to wherever you want to go. You can also save entire trips as favorites and find next trips with one click. Discover nearby stations and show upcoming departures including the delays (if there are any).
+### AFWall
 
-[Github](https://github.com/grote/Transportr) | [Google Play](https://play.google.com/store/apps/details?id=de.grobox.liberario) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
+Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced iptables editor (GUI) for Android. It provides fine-grained control over which Android apps are allowed to access the network. The original codebase was derived from [DroidWall](https://code.google.com/archive/p/droidwall/) by Rodrigo Rosauro. DroidWall was sold to AVAST in December 2011, and is no longer actively maintained.
+
+[Github](https://github.com/ukanth/afwall) | [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
+
+![AdAway](/img/adaway.png)
+
+### AdAway
+
+[AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
+
+[Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
+
+![Master Password](/img/masterpassword.png)
+
+### Master Password
+
+[Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
+
+[Github](https://github.com/Lyndir/MasterPassword/)
 
 ![KDE Connect](/img/kdeconnect.png)
+
+### KDE Connect
 
 [KDE Connect](https://community.kde.org/KDEConnect) is a project that aims to communicate all your devices. For example, with KDE Connect you can receive your phone notifications on your computer, or just use your phone as a remote control for your desktop. To achieve this, KDE Connect implements a secure communication protocol over the network, and allows any developer to create plugins on top of it. Currently there are KDE Connect clients on KDE, Android and Blackberry, and soon we will support iPhone as well.
 
 [Source](https://quickgit.kde.org/?p=kdeconnect-android.git) | [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.kde.kdeconnect_tp)
 
+## Productivity
+
+![Financius](/img/financius.png)
+
+### Financius
+
+[Financius - Expense Manager](https://github.com/mvarnagiris/financius-public) is a simple application that helps you log and track your expenses and keep an eye on your balance.
+
+[Github](https://github.com/mvarnagiris/financius-public) | [Google Play](https://play.google.com/store/apps/details?id=com.code44.finance)
+
+![OsmAnd](/img/osmand.png)
+
+### OsmAnd
+
+[OsmAnd](http://osmand.net) (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data. All map data can be stored on your device's memory card for offline use. Via your device's GPS, OsmAnd offers routing, with optical and voice guidance, for car, bike, and pedestrian. All the main functionalities work both online and offline (no internet needed).
+
+[Github](https://github.com/osmandapp/Osmand) | [Google Play](https://play.google.com/store/apps/details?id=net.osmand.plus)
+
+![Transportr](/img/transportr.png)
+
+### Transportr
+
+[Transportr](https://transportr.grobox.de) is the public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. Currently, it works best in Europe, but also supports many places world-wide. If you live in an unsupported area, consider adding it to Transportr. It finds directions from your home, your current position or a given station to wherever you want to go. You can also save entire trips as favorites and find next trips with one click. Discover nearby stations and show upcoming departures including the delays (if there are any).
+
+[Github](https://github.com/grote/Transportr) | [Google Play](https://play.google.com/store/apps/details?id=de.grobox.liberario) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
+
+## Terminal
+
+![Terminal Emulator](/img/terminal.png)
+
+### Terminal Emulator
+
+[Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) is a terminal emulator for communicating with the built-in Android shell. It emulates a reasonably large subset of Digital Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs" and "NetHack" will display properly.
+
+[Github](https://github.com/jackpal/Android-Terminal-Emulator) | [Google Play](https://play.google.com/store/apps/details?id=jackpal.androidterm)
+
 ![Termux](/img/termux.png)
+
+### Termux
 
 [Termux](https://termux.com) is a terminal emulator and Linux environment bringing powerful terminal access to Android.
 
@@ -420,32 +491,26 @@ Tinkerable. Develop by compiling C files with clang or gcc and build your own pr
 
 [Github](https://github.com/termux/termux-app) | [Google Play](https://play.google.com/store/apps/details?id=com.termux) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.termux)
 
+## Other
+
+![Google I/O](/img/googleio.png)
+
+### Google I/O
+
+[Google I/O](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched) is a developer conference held each year with two days of deep technical content featuring technical sessions and hundreds of demonstrations from developers showcasing their technologies.
+
+This project is the Android app for the conference. The app supports devices running Android 4.0+, and is optimized for phones and tablets of all shapes and sizes.
+
+[GitHub](https://github.com/google/iosched) | [Google Play](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
+
 ![Wordpress](/img/wordpress.png)
+
+### Wordpress
 
 [WordPress](https://apps.wordpress.com/mobile) for Android puts the power of publishing in your hands, making it easy to create and consume content. Write, edit, and publish posts to your site, check stats, and get inspired with great posts in the Reader. What’s more? It’s open source. WordPress for Android supports WordPress.com and self-hosted WordPress.org sites running WordPress 3.5 or higher.
 
 [Github](https://github.com/wordpress-mobile/WordPress-Android) | [Google Play](https://play.google.com/store/apps/details?id=org.wordpress.android)
 
-![Kiss](/img/kiss.png)
-
-[KISS](https://github.com/Neamar/KISS) is a blazingly fast launcher for android requiring nearly no memory to run.  
-Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the "phone" button. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.
-
-[Github](https://github.com/Neamar/KISS) | [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss) | [F-Droid](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
-
-![AdAway](/img/adaway.png)
-
-[AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
-
-[Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
-
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
-
----
-
-## TO DO
-
-* Sort apps alphabetically or by category?
-* Make an index
