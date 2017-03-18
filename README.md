@@ -12,7 +12,7 @@ A list of interesting and open source Android apps.
   - [Conversations](#conversations)
   - [Antox](#antox)
   - [Jisti](#jitsi)
-  - [Hack.chat](#hack-chat)
+  - [Hack.chat](#hackchat)
 - [Email](#email)
   - [K-9 Mail](#k-9-mail)
   - [ProtonMail](#protonmail)
