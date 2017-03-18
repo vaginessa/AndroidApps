@@ -4,6 +4,9 @@ A list of interesting and open source Android apps.
 
 ## Table of Contents
 
+- [App Repositories](#app-repositories)
+  - [F-Droid](#f-droid)
+  - [Yalp Store](#yalp-store)
 - [Messaging](#messaging)
   - [Signal](#signal)
   - [Silence](#silence)
@@ -59,6 +62,8 @@ A list of interesting and open source Android apps.
   - [AdAway](#adaway)
   - [Master Password](#master-password)
   - [AIMSICD](#aimsicd)
+  - [OpenKeyChain](#openkeychain)
+  - [FreeOTP](#freeotp)
 - [Terminal](#terminal)
   - [Terminal Emulator](#terminal-emulator)
   - [Termux](#termux)
@@ -67,10 +72,21 @@ A list of interesting and open source Android apps.
   - [Wordpress](#wordpress)
 
 ---
+## App Repositories
 
 ![F-Droid](/img/f-droid.png)
 
+### F-Droid
+
 [F-Droid](https://f-droid.org) is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+
+![Yalp Store](/img/yalp.png)
+
+### Yalp Store
+
+[Yalp Store](https://github.com/yeriomin/YalpStore) lets you download apps from Google Play Store as apk files. It searches for updates of installed apps when it starts and lets you search for other apps. Thats it. Yalp saves downloaded apks to your default download folder so you can later open it in your favorite file manager app and tap each one to install the apps.
+
+[Github](https://github.com/yeriomin/YalpStore) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.github.yeriomin.yalpstore)
 
 ## Messaging
 
