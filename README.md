@@ -6,6 +6,10 @@ A list of interesting and open source Android apps.
 
 - [Messaging](#messaging)
   - [Signal](#signal)
+  - [Silence](#silence)
+  - [ChatSecure](#chatsecure)
+- [Email](#email)
+  - [K-9 Mail](#k-9-mail)
 
 ---
 
@@ -26,27 +30,51 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 
 ![Silence](/img/silence.png)
 
+### Silence
+
 [Silence](https://silence.im) (formerly SMSSecure) is an SMS/MMS application that allows you to protect your privacy while communicating with friends. Using Silence, you can send SMS messages and share media or attachments with complete privacy.
 
 [Github](https://github.com/SilenceIM/Silence) | [Google Play](https://play.google.com/store/apps/details?id=org.smssecure.smssecure) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure)
 
 ![ChatSecure](/img/chatsecure.png)
 
+### ChatSecure
+
 [ChatSecure](https://chatsecure.org) is a free and open source messaging app that features OTR encryption over XMPP. You can connect to your existing accounts on Facebook or Google, create new accounts on [public XMPP servers](https://xmpp.net/directory.php) (including via [Tor](https://www.torproject.org/)), or even [connect to your own server](http://arstechnica.com/information-technology/2014/03/how-to-set-up-your-own-private-instant-messaging-server) for extra security. Unlike other apps that keep you stuck in their walled garden, ChatSecure is fully interoperable with other clients that support OTR and XMPP, such as [Adium](https://www.adium.im), [Jitsi](https://jitsi.org), and [more](https://www.wikiwand.com/en/Off-the-Record_Messaging#/Client_support).
 
 [Github](https://github.com/ChatSecure/ChatSecure-iOS) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im)
 
+## Email
+
 ![K-9 Mail](/img/k9mail.png)
+
+### K-9 Mail
 
 [K-9 Mail](https://github.com/k9mail/k-9/) is an open-source e-mail client with search, IMAP push email, multi-folder sync, flagging, filing, signatures, bcc-self, [PGP](https://www.wikiwand.com/en/Pretty_Good_Privacy), mail on SD & more! K-9 supports IMAP, POP3 and Exchange 2003/2007 (with WebDAV).
 
 [Github](https://github.com/k9mail/k-9/) | [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
 
+## Web Browser
+
 ![Lightning](/img/lightning.png)
+
+### Lightning
 
 [Lightning](https://github.com/anthonycr/Lightning-Browser) is a simple, fast web browser that focuses on design, security, and efficiency. It uses material design, doesn't track you, give you lots of options to protect your privacy, and does it in under 2MB. It gets out of the way of the user.
 
 [Github](https://github.com/anthonycr/Lightning-Browser) | [Google Play](https://play.google.com/store/apps/details?id=acr.browser.barebones) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=lightning&fdid=acr.browser.lightning)
+
+![Brave](/img/brave.png)
+
+### Brave
+
+[Brave](https://brave.com) has joined forces with LinkBubble to bring you a faster web - by blocking the ads and trackers that get in your way plus all the features you love from LinkBubble. Just go to the settings to turn on or off privacy features like ad blocking, tracker protection and Https Everywhere.
+
+Recognized in Google Play's Best Apps of 2014, Brave (formerly known as LinkBubble) has unique features to make internet browsing faster and more seamless. When you click on a link in an app, Brave loads that webpage in the background, leaving you free to keep using your current app -  rather than wasting your time watching pages load.
+
+Brave is designed for both speed and security, so you can enjoy a lightning fast browsing experience without popups, malware and other annoyances. All Brave browsers are open source, so you can view our code and even make contributions.
+
+[Github](https://github.com/brave/browser-android) | [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
 
 ![NewPipe](/img/newpipe.png)
 
@@ -184,16 +212,6 @@ Orfox is built from the same source code as Tor Browser (which is built upon Fir
 In as many ways as possible, we adhere to the [design goals of Tor Browser](https://www.torproject.org/projects/torbrowser/design/), by supporting as much of their actual code as possible, and extending their work into the additional Android components of Firefox for Android.
 
 [Github](https://github.com/guardianproject/Orfox) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.orfox)
-
-![Brave](/img/brave.png)
-
-[Brave](https://brave.com) has joined forces with LinkBubble to bring you a faster web - by blocking the ads and trackers that get in your way plus all the features you love from LinkBubble. Just go to the settings to turn on or off privacy features like ad blocking, tracker protection and Https Everywhere.
-
-Recognized in Google Play's Best Apps of 2014, Brave (formerly known as LinkBubble) has unique features to make internet browsing faster and more seamless. When you click on a link in an app, Brave loads that webpage in the background, leaving you free to keep using your current app -  rather than wasting your time watching pages load.
-
-Brave is designed for both speed and security, so you can enjoy a lightning fast browsing experience without popups, malware and other annoyances. All Brave browsers are open source, so you can view our code and even make contributions.
-
-[Github](https://github.com/brave/browser-android) | [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
 
 ![Ghost Commander](/img/ghostcommander.png)
 
