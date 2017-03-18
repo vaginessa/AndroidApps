@@ -5,6 +5,7 @@ A list of interesting and open source Android apps.
 ## Table of Contents
 
 - [Messaging](#messaging)
+  - [Signal](#signal)
 
 ---
 
@@ -15,6 +16,8 @@ A list of interesting and open source Android apps.
 ## Messaging
 
 ![Signal](/img/signal.png)
+
+### Signal
 
 Privacy is possible, [Signal](https://whispersystems.org) makes it easy.
 Using Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or attachments all with complete privacy. The server never has access to any of your communication and never stores any of your data.
