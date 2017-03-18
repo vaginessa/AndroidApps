@@ -11,12 +11,34 @@ A list of interesting and open source Android apps.
   - [Telegram](#telegram)
   - [Conversations](#conversations)
   - [Antox](#antox)
+  - [Jisti](#jitsi)
+  - [Hack.chat](#hack-chat)
 - [Email](#email)
   - [K-9 Mail](#k-9-mail)
   - [ProtonMail](#protonmail)
 - [Web Browser](#web-browser)
   - [Lightning](#lightning)
   - [Brave](#brave)
+  - [Orbot](#orbot)
+  - [Orfox](#orfox)
+- [Social Media](#social-media)
+  - [Twidere](#twidere)
+  - [Slide](#slide)
+  - [RedReader](#redreader)
+- [Video](#video)
+  - [NewPipe](#newpipe)
+- [Photography](#photography)
+  - [Open Camera](#open-camera)
+  - [Aperture Gallery](#aperture-gallery)
+- [Music](#music)
+  - [Tomahawk](#tomahawk)
+- [Note Taking](#note-taking)
+  - [Writeily](#writeily)
+  - [Omni-Notes](#omni-notes)
+  - [Simplenote](#simplenote)
+- [Task Manager](task-manager)
+  - [Mirakel](#mirakel)
+  - [Tasks](#tasks)
 
 ---
 
@@ -80,6 +102,22 @@ Telegram seamlessly syncs across all of your devices and can be used on desktops
 
 [Github](https://github.com/Antox/Antox) | [Google Play](https://play.google.com/store/apps/details?id=chat.tox.antox) | [F-Droid repo](https://pkg.tox.chat/fdroid/repo/)
 
+![Jitsi](/img/jitsi.png)
+
+### Jitsi
+
+[Jitsi](https://jitsi.org) for Android is an Android port of the Jitsi project: The most feature-rich communicator with support for encrypted audio/video, chat and presence over SIP and XMPP.
+
+[Github](https://github.com/jitsi/jitsi-android) | [Download](https://download.jitsi.org/jitsi/nightly/android/)
+
+![Hack.chat](/img/hackchat.png)
+
+### Hack.chat
+
+[Hack.chat](https://hack.chat) is a minimal, distraction-free chat application. Create a chatroom with just a name, there are no preset channel so just enter a chatroom name and a nickname, share the link and communicate.
+
+[Github](https://github.com/AndrewBelt/hack.chat) | [Google Play](https://play.google.com/store/apps/details?id=chat.hack.hackchat) | [Google Play](https://play.google.com/store/apps/details?id=com.niobbu.nippychat)
+
 ## Email
 
 ![K-9 Mail](/img/k9mail.png)
@@ -122,6 +160,52 @@ Brave is designed for both speed and security, so you can enjoy a lightning fast
 
 [Github](https://github.com/brave/browser-android) | [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
 
+![Orbot](/img/orbot.png)
+
+### Orbot
+
+[Orbot](https://guardianproject.info/apps/orbot/) is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as traffic analysis. Orbot creates a truly private mobile internet connection.
+
+[Github](https://github.com/n8fr8/orbot) | [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android)
+
+![Orfox](/img/orfox.png)
+
+### Orfox
+
+[Orfox](https://guardianproject.info/2015/06/30/orfox-aspiring-to-bring-tor-browser-to-android/) is a new privacy-enhanced browser for Android, based on Mozilla Firefox, configured by default to work with Orbot: Tor for Android.
+
+Orfox is built from the same source code as Tor Browser (which is built upon Firefox), but with a few minor modifications to the privacy enhancing features to make them compatible with Firefox for Android and the Android operating system. Orfox requires Orbot app for Android to connect to the Tor network.
+
+In as many ways as possible, we adhere to the [design goals of Tor Browser](https://www.torproject.org/projects/torbrowser/design/), by supporting as much of their actual code as possible, and extending their work into the additional Android components of Firefox for Android.
+
+[Github](https://github.com/guardianproject/Orfox) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.orfox)
+
+## Social Media
+
+![Twidere](/img/twidere.png)
+
+### Twidere
+
+[Twidere](http://twidere.mariotaku.org) is a powerful Twitter/StatusNet/Fanfou app for Android 4.0+, which gives you a full Material experience and nearly complete (or even better) Twitter feature.
+
+[Github](https://github.com/mariotaku/twidere) | [Google Play](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
+
+![Slide for Reddit](/img/slide.png)
+
+### Slide
+
+[Slide for Reddit](https://github.com/ccrama/Slide) is a rock-solid material-designed unofficial browser for Reddit with an easy to use UI and tons of customization. Slide is ad-free, open source, and is packed with many unique features.
+
+[Github](https://github.com/ccrama/Slide) | [Google Play](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
+
+![RedReader](/img/redreader.png)
+
+### RedReader
+
+[RedReader](https://github.com/QuantumBadger/RedReader) is an unofficial client for the news site reddit.com.
+
+[Github](https://github.com/QuantumBadger/RedReader) | [Google Play](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader)
+
 ## Video
 
 ![NewPipe](/img/newpipe.png)
@@ -132,11 +216,35 @@ Brave is designed for both speed and security, so you can enjoy a lightning fast
 
 [Github](https://github.com/theScrabi/NewPipe) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
 
-![AdAway](/img/adaway.png)
+## Photography
 
-[AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
+![Open Camera](/img/opencamera.png)
 
-[Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
+### Open Camera
+
+[Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets.
+
+[SourceForge](https://sourceforge.net/projects/opencamera/) | [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=open+camera&fdid=net.sourceforge.opencamera)
+
+![Aperture Gallery](/img/aperture.jpg)
+
+### Aperture Gallery
+
+[Aperture Gallery](https://github.com/MJonesDev/ApertureGallery) is an open source material design gallery. No distractions from your photos, and no heavy weight from loading. Personalize it to your liking by changing colours and by going into dark mode. Based on an old build of Impression by Aidan Follestad, Daniel Chao, and Marlon Jones.
+
+> "Due to an expired keystore Keystore, Aperture Gallery is being replaced by a new version, and this will now be known as Aperture Classic. I will focus on developing this new version of Aperture, and will add in more features and additions as my time permits. Aperture Gallery (Known as Project: EVO to beta and debug testers) will be released on the Google Play store in the coming months."
+
+[Github](https://github.com/MJonesDev/ApertureGallery)
+
+## Music
+
+![Tomahawk](/img/tomahawk.png)
+
+### Tomahawk
+
+[Tomahawk](https://www.tomahawk-player.org), the critically acclaimed multi-source music player, is now available on Android. Given the name of an artist, album or song Tomahawk will find the best available source and play it - whether that be from Spotify, Deezer, GMusic, Soundcloud, Tidal, Official.fm, Jamendo, Beets, Ampache, Subsonic or your phone’s local storage. Tomahawk for Android also syncs your history, your loved tracks, artists, albums and your playlists to/from the desktop version of Tomahawk via our new music community, Hatchet. On Hatchet you can hear your friends' favorite tracks and see what they're currently listening to.
+
+[Github](https://github.com/tomahawk-player/tomahawk-android) | [Google Play](https://play.google.com/store/apps/details?id=org.tomahawk.tomahawk_android)
 
 ## Note Taking
 
@@ -148,17 +256,47 @@ Brave is designed for both speed and security, so you can enjoy a lightning fast
 
 [Github](https://github.com/plafue/writeily-pro) | [Google Play](https://play.google.com/store/apps/details?id=me.writeily) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.writeily)
 
+![Omni-Notes](/img/omninotes.png)
+
+### Omni-Notes
+
+[Omni-Notes](https://federicoiosue.github.io/Omni-Notes/) is a note taking open-source application aimed to have both a simple interface but keeping smart behavior.
+
+The project was created by the absence of such applications compatible with old phones and old versions of Android that would propose, however, an attractive look and aligned with the most recent design of the Google operating system.
+
+[Github](https://github.com/federicoiosue/Omni-Notes) | [Google Play](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)
+
+![Simplenote](/img/simplenote.png)
+
+### Simplenote
+
+[Simplenote](https://simplenote.com) is an easy way to keep notes, lists, ideas, and more. Keep notes on the web, your mobile device, and your computer. Find notes quickly with instant searching and simple tags. Share a list, post some instructions, or publish your thoughts.
+
+[Github](https://github.com/automattic/simplenote-android) | [Google Play](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
+
+## Task Manager
+
+![Mirakel](/img/mirakel.png)
+
+### Mirakel
+
+[Mirakel](http://mirakel.azapps.de) is an easy to use and lightweight To-Do App for your Android Phone or Tablet. Become the most efficient & effective Dev with this task list for the greatest developers in the universe. Get your things done with a strictly organised workflow.
+
+[Github](https://github.com/MirakelX/mirakel-android) | [Google Play](https://play.google.com/store/apps/details?id=de.azapps.mirakelandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.azapps.mirakelandroid)
+
+![Tasks](/img/tasks.png)
+
+### Tasks
+
+[Tasks](https://github.com/tasks/tasks) is free and open source task management software based on the same code as Astrid.
+
+[Github](https://github.com/tasks/tasks) | [Google Play](https://play.google.com/store/apps/details?id=org.tasks) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.tasks)
+
 ![OsmAnd](/img/osmand.png)
 
 [OsmAnd](http://osmand.net) (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data. All map data can be stored on your device's memory card for offline use. Via your device's GPS, OsmAnd offers routing, with optical and voice guidance, for car, bike, and pedestrian. All the main functionalities work both online and offline (no internet needed).
 
 [Github](https://github.com/osmandapp/Osmand) | [Google Play](https://play.google.com/store/apps/details?id=net.osmand.plus)
-
-![Mirakel](/img/mirakel.png)
-
-[Mirakel](http://mirakel.azapps.de) is an easy to use and lightweight To-Do App for your Android Phone or Tablet. Become the most efficient & effective Dev with this task list for the greatest developers in the universe. Get your things done with a strictly organised workflow.
-
-[Github](https://github.com/MirakelX/mirakel-android) | [Google Play](https://play.google.com/store/apps/details?id=de.azapps.mirakelandroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.azapps.mirakelandroid)
 
 ![AFWall+](/img/afwall.jpg)
 
@@ -188,53 +326,11 @@ Root explorer for advanced users
 
 [Github](https://github.com/xsoh/Etar-Calendar) | [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar) | [F-Droid](https://f-droid.org/repository/browse/?fdid=ws.xsoh.etar)
 
-![Slide for Reddit](/img/slide.png)
-
-[Slide for Reddit](https://github.com/ccrama/Slide) is a rock-solid material-designed unofficial browser for Reddit with an easy to use UI and tons of customization. Slide is ad-free, open source, and is packed with many unique features.
-
-[Github](https://github.com/ccrama/Slide) | [Google Play](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | [F-Droid](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
-
-![RedReader](/img/redreader.png)
-
-[RedReader](https://github.com/QuantumBadger/RedReader) is an unofficial client for the news site reddit.com.
-
-[Github](https://github.com/QuantumBadger/RedReader) | [Google Play](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader)
-
-![Aperture Gallery](/img/aperture.jpg)
-
-[Aperture Gallery](https://github.com/MJonesDev/ApertureGallery) is an open source material design gallery. No distractions from your photos, and no heavy weight from loading. Personalize it to your liking by changing colours and by going into dark mode. Based on an old build of Impression by Aidan Follestad, Daniel Chao, and Marlon Jones.
-
-> "Due to an expired keystore Keystore, Aperture Gallery is being replaced by a new version, and this will now be known as Aperture Classic. I will focus on developing this new version of Aperture, and will add in more features and additions as my time permits. Aperture Gallery (Known as Project: EVO to beta and debug testers) will be released on the Google Play store in the coming months."
-
-[Github](https://github.com/MJonesDev/ApertureGallery)
-
 ![Master Password](/img/masterpassword.png)
 
 [Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
 
 [Github](https://github.com/Lyndir/MasterPassword/)
-
-![Open Camera](/img/opencamera.png)
-
-[Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets.
-
-[SourceForge](https://sourceforge.net/projects/opencamera/) | [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=open+camera&fdid=net.sourceforge.opencamera)
-
-![Orbot](/img/orbot.png)
-
-[Orbot](https://guardianproject.info/apps/orbot/) is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as traffic analysis. Orbot creates a truly private mobile internet connection.
-
-[Github](https://github.com/n8fr8/orbot) | [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android) | [F-Droid](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android)
-
-![Orfox](/img/orfox.png)
-
-[Orfox](https://guardianproject.info/2015/06/30/orfox-aspiring-to-bring-tor-browser-to-android/) is a new privacy-enhanced browser for Android, based on Mozilla Firefox, configured by default to work with Orbot: Tor for Android.
-
-Orfox is built from the same source code as Tor Browser (which is built upon Firefox), but with a few minor modifications to the privacy enhancing features to make them compatible with Firefox for Android and the Android operating system. Orfox requires Orbot app for Android to connect to the Tor network.
-
-In as many ways as possible, we adhere to the [design goals of Tor Browser](https://www.torproject.org/projects/torbrowser/design/), by supporting as much of their actual code as possible, and extending their work into the additional Android components of Firefox for Android.
-
-[Github](https://github.com/guardianproject/Orfox) | [Google Play](https://play.google.com/store/apps/details?id=info.guardianproject.orfox)
 
 ![Ghost Commander](/img/ghostcommander.png)
 
@@ -246,37 +342,11 @@ All the main file operations in this application are bound to numerical keys, wi
 
 [SourceForge](https://sourceforge.net/projects/ghostcommander) | [Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.ghostsq.commander)
 
-![Twidere](/img/twidere.png)
-
-[Twidere](http://twidere.mariotaku.org) is a powerful Twitter/StatusNet/Fanfou app for Android 4.0+, which gives you a full Material experience and nearly complete (or even better) Twitter feature.
-
-[Github](https://github.com/mariotaku/twidere) | [Google Play](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
-
-![Omni-Notes](/img/omninotes.png)
-
-[Omni-Notes](https://federicoiosue.github.io/Omni-Notes/) is a note taking open-source application aimed to have both a simple interface but keeping smart behavior.
-
-The project was created by the absence of such applications compatible with old phones and old versions of Android that would propose, however, an attractive look and aligned with the most recent design of the Google operating system.
-
-[Github](https://github.com/federicoiosue/Omni-Notes) | [Google Play](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)
-
-![Hack.chat](/img/hackchat.png)
-
-[Hack.chat](https://hack.chat) is a minimal, distraction-free chat application. Create a chatroom with just a name, there are no preset channel so just enter a chatroom name and a nickname, share the link and communicate.
-
-[Github](https://github.com/AndrewBelt/hack.chat) | [Google Play](https://play.google.com/store/apps/details?id=chat.hack.hackchat) | [Google Play](https://play.google.com/store/apps/details?id=com.niobbu.nippychat)
-
 ![Terminal Emulator](/img/terminal.png)
 
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) is a terminal emulator for communicating with the built-in Android shell. It emulates a reasonably large subset of Digital Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs" and "NetHack" will display properly.
 
 [Github](https://github.com/jackpal/Android-Terminal-Emulator) | [Google Play](https://play.google.com/store/apps/details?id=jackpal.androidterm)
-
-![Simplenote](/img/simplenote.png)
-
-[Simplenote](https://simplenote.com) is an easy way to keep notes, lists, ideas, and more. Keep notes on the web, your mobile device, and your computer. Find notes quickly with instant searching and simple tags. Share a list, post some instructions, or publish your thoughts.
-
-[Github](https://github.com/automattic/simplenote-android) | [Google Play](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
 
 ![Antennapod](/img/antennapod.png)
 
@@ -316,12 +386,6 @@ This project is the Android app for the conference. The app supports devices run
 
 [GitLab](https://gitlab.com/bitfireAT/davdroid) | [Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)
 
-![Tasks](/img/tasks.png)
-
-[Tasks](https://github.com/tasks/tasks) is free and open source task management software based on the same code as Astrid.
-
-[Github](https://github.com/tasks/tasks) | [Google Play](https://play.google.com/store/apps/details?id=org.tasks) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.tasks)
-
 ![Transportr](/img/transportr.png)
 
 [Transportr](https://transportr.grobox.de) is the public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. Currently, it works best in Europe, but also supports many places world-wide. If you live in an unsupported area, consider adding it to Transportr. It finds directions from your home, your current position or a given station to wherever you want to go. You can also save entire trips as favorites and find next trips with one click. Discover nearby stations and show upcoming departures including the delays (if there are any).
@@ -356,18 +420,6 @@ Tinkerable. Develop by compiling C files with clang or gcc and build your own pr
 
 [Github](https://github.com/termux/termux-app) | [Google Play](https://play.google.com/store/apps/details?id=com.termux) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.termux)
 
-![Tomahawk](/img/tomahawk.png)
-
-[Tomahawk](https://www.tomahawk-player.org), the critically acclaimed multi-source music player, is now available on Android. Given the name of an artist, album or song Tomahawk will find the best available source and play it - whether that be from Spotify, Deezer, GMusic, Soundcloud, Tidal, Official.fm, Jamendo, Beets, Ampache, Subsonic or your phone’s local storage. Tomahawk for Android also syncs your history, your loved tracks, artists, albums and your playlists to/from the desktop version of Tomahawk via our new music community, Hatchet. On Hatchet you can hear your friends' favorite tracks and see what they're currently listening to.
-
-[Github](https://github.com/tomahawk-player/tomahawk-android) | [Google Play](https://play.google.com/store/apps/details?id=org.tomahawk.tomahawk_android)
-
-![Jitsi](/img/jitsi.png)
-
-[Jitsi](https://jitsi.org) for Android is an Android port of the Jitsi project: The most feature-rich communicator with support for encrypted audio/video, chat and presence over SIP and XMPP.
-
-[Github](https://github.com/jitsi/jitsi-android) | [Download](https://download.jitsi.org/jitsi/nightly/android/)
-
 ![Wordpress](/img/wordpress.png)
 
 [WordPress](https://apps.wordpress.com/mobile) for Android puts the power of publishing in your hands, making it easy to create and consume content. Write, edit, and publish posts to your site, check stats, and get inspired with great posts in the Reader. What’s more? It’s open source. WordPress for Android supports WordPress.com and self-hosted WordPress.org sites running WordPress 3.5 or higher.
@@ -380,6 +432,12 @@ Tinkerable. Develop by compiling C files with clang or gcc and build your own pr
 Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the "phone" button. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.
 
 [Github](https://github.com/Neamar/KISS) | [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss) | [F-Droid](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
+
+![AdAway](/img/adaway.png)
+
+[AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
+
+[Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
 
 ---
 
