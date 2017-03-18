@@ -49,14 +49,15 @@ A list of interesting and open source Android apps.
   - [Ghost Commander](#ghost-commander)
   - [Etar Calendar](#etar-calendar)
   - [DAVdroid](#davdroid)
-  - [AFWall+](#afwall)
-  - [AdAway](#adaway)
-  - [Master Password](#master-password)
   - [KDE Connect](#kde-connect)
 - [Productivity](#productivity)
   - [Financius](#financius)
   - [OsmAnd](#osmand)
   - [Transportr](#transportr)
+- [Security](#security)
+  - [AFWall+](#afwall)
+  - [AdAway](#adaway)
+  - [Master Password](#master-password)
 - [Terminal](#terminal)
   - [Terminal Emulator](#terminal-emulator)
   - [Termux](#termux)
@@ -399,30 +400,6 @@ All the main file operations in this application are bound to numerical keys, wi
 
 [GitLab](https://gitlab.com/bitfireAT/davdroid) | [Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) | [F-Droid](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)
 
-![AFWall+](/img/afwall.jpg)
-
-### AFWall
-
-Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced iptables editor (GUI) for Android. It provides fine-grained control over which Android apps are allowed to access the network. The original codebase was derived from [DroidWall](https://code.google.com/archive/p/droidwall/) by Rodrigo Rosauro. DroidWall was sold to AVAST in December 2011, and is no longer actively maintained.
-
-[Github](https://github.com/ukanth/afwall) | [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
-
-![AdAway](/img/adaway.png)
-
-### AdAway
-
-[AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
-
-[Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
-
-![Master Password](/img/masterpassword.png)
-
-### Master Password
-
-[Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
-
-[Github](https://github.com/Lyndir/MasterPassword/)
-
 ![KDE Connect](/img/kdeconnect.png)
 
 ### KDE Connect
@@ -456,6 +433,32 @@ Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced ipta
 [Transportr](https://transportr.grobox.de) is the public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. Currently, it works best in Europe, but also supports many places world-wide. If you live in an unsupported area, consider adding it to Transportr. It finds directions from your home, your current position or a given station to wherever you want to go. You can also save entire trips as favorites and find next trips with one click. Discover nearby stations and show upcoming departures including the delays (if there are any).
 
 [Github](https://github.com/grote/Transportr) | [Google Play](https://play.google.com/store/apps/details?id=de.grobox.liberario) | [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
+
+## Security
+
+![AFWall+](/img/afwall.jpg)
+
+### AFWall
+
+Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced iptables editor (GUI) for Android. It provides fine-grained control over which Android apps are allowed to access the network. The original codebase was derived from [DroidWall](https://code.google.com/archive/p/droidwall/) by Rodrigo Rosauro. DroidWall was sold to AVAST in December 2011, and is no longer actively maintained.
+
+[Github](https://github.com/ukanth/afwall) | [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
+
+![AdAway](/img/adaway.png)
+
+### AdAway
+
+[AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
+
+[Github](https://github.com/AdAway/AdAway) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.adaway)
+
+![Master Password](/img/masterpassword.png)
+
+### Master Password
+
+[Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
+
+[Github](https://github.com/Lyndir/MasterPassword/)
 
 ## Terminal
 
