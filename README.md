@@ -61,7 +61,7 @@ A list of interesting and open source Android apps.
   - [Terminal Emulator](#terminal-emulator)
   - [Termux](#termux)
 - [Other](#other)
-  - [Google I/O](#google-i/o)
+  - [Google I/O](#google-io)
   - [Wordpress](#wordpress)
 
 ---
