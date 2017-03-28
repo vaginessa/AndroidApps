@@ -40,7 +40,7 @@ A list of interesting and open source Android apps.
   - [Writeily](#writeily)
   - [Omni-Notes](#omni-notes)
   - [Simplenote](#simplenote)
-- [Task Manager](task-manager)
+- [Task Manager](#task-manager)
   - [Mirakel](#mirakel)
   - [Tasks](#tasks)
 - [File Sync](#file-sync)
