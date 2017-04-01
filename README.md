@@ -16,6 +16,7 @@ A list of interesting and open source Android apps.
   - [Antox](#antox)
   - [Jisti](#jitsi)
   - [Hack.chat](#hackchat)
+  - [Riot](#riot)
 - [Email](#email)
   - [K-9 Mail](#k-9-mail)
   - [ProtonMail](#protonmail)
@@ -159,6 +160,14 @@ Telegram seamlessly syncs across all of your devices and can be used on desktops
 [Hack.chat](https://hack.chat) is a minimal, distraction-free chat application. Create a chatroom with just a name, there are no preset channel so just enter a chatroom name and a nickname, share the link and communicate.
 
 [Github](https://github.com/AndrewBelt/hack.chat) | [Google Play](https://play.google.com/store/apps/details?id=chat.hack.hackchat) | [Google Play](https://play.google.com/store/apps/details?id=com.niobbu.nippychat)
+
+![Riot](/img/riot.png)
+
+### Riot
+
+[Riot](https://riot.im) is a simple and elegant collaboration environment that gathers all of your different conversations and app integrations into one single app.
+
+[Github](https://github.com/vector-im/riot-android) | [Google Play](https://play.google.com/store/apps/details?id=im.vector.alpha) | [F-Droid](https://f-droid.org/repository/browse/?fdid=im.vector.alpha)
 
 ## Email
 
