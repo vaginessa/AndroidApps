@@ -16,6 +16,7 @@ A list of interesting and open source Android apps.
   - [ChatSecure](#chatsecure)
   - [Telegram](#telegram)
   - [Conversations](#conversations)
+  - [Kontalk](#kontalk)
   - [Antox](#antox)
   - [Jisti](#jitsi)
   - [Hack.chat](#hackchat)
@@ -157,6 +158,14 @@ Telegram seamlessly syncs across all of your devices and can be used on desktops
 [Conversation](https://conversations.im) is a free and open source Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience. Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
 
 [Github](https://github.com/siacs/Conversations) | [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
+
+![Kontalk](/img/kontalk.png)
+
+### Kontalk
+
+[Kontalk](https://www.kontalk.org) is a secure instant messenger, allowing you to send and receive text, image and voice messages (other file types coming soon) to and from other Kontalk users completely free of charge.
+
+[Github](https://github.com/kontalk/androidclient) | [Google Play](https://play.google.com/store/apps/details?id=org.kontalk) | [F-Droid](https://f-droid.org/repository/browse/?fdid=org.kontalk)
 
 ![Antox](/img/antox.png)
 
