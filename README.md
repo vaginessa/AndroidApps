@@ -7,6 +7,9 @@ A list of interesting and open source Android apps.
 - [App Repositories](#app-repositories)
   - [F-Droid](#f-droid)
   - [Yalp Store](#yalp-store)
+- [Launchers](#launchers)
+  - [KISS](#kiss)
+  - [OpenLauncher](#openlauncher)
 - [Messaging](#messaging)
   - [Signal](#signal)
   - [Silence](#silence)
@@ -48,7 +51,6 @@ A list of interesting and open source Android apps.
   - [Syncthing](#syncthing)
   - [Seafile](#seafile)
 - [Utilities](#productivity)
-  - [KISS](#kiss)
   - [Amaze File Manager](#amaze-file-manager)
   - [Ghost Commander](#ghost-commander)
   - [Etar Calendar](#etar-calendar)
@@ -88,6 +90,25 @@ A list of interesting and open source Android apps.
 [Yalp Store](https://github.com/yeriomin/YalpStore) lets you download apps from Google Play Store as apk files. It searches for updates of installed apps when it starts and lets you search for other apps. Thats it. Yalp saves downloaded apks to your default download folder so you can later open it in your favorite file manager app and tap each one to install the apps.
 
 [Github](https://github.com/yeriomin/YalpStore) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.github.yeriomin.yalpstore)
+
+## Launchers
+
+![Kiss](/img/kiss.png)
+
+### KISS
+
+[KISS](https://github.com/Neamar/KISS) is a blazingly fast launcher for android requiring nearly no memory to run.  
+Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the "phone" button. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.
+
+[Github](https://github.com/Neamar/KISS) | [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss) | [F-Droid](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
+
+![OpenLauncher](/img/openlauncher.png)
+
+### OpenLauncher
+
+[OpenLauncher](https://github.com/BennyKok/OpenLauncher) is an open source Android launcher project, started from scratch. We aim to create a powerful and community driven Android launcher.
+
+[Github](https://github.com/BennyKok/OpenLauncher) | [Google Play](https://play.google.com/store/apps/details?id=com.benny.openlauncher) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.benny.openlauncher)
 
 ## Messaging
 
@@ -370,15 +391,6 @@ The project was created by the absence of such applications compatible with old 
 [Github](https://github.com/haiwen/seadroid) | [Google Play](https://play.google.com/store/apps/details?id=com.seafile.seadroid2) | [F-Droid](https://f-droid.org/repository/browse/?fdid=com.seafile.seadroid2)
 
 ## Utilities
-
-![Kiss](/img/kiss.png)
-
-### KISS
-
-[KISS](https://github.com/Neamar/KISS) is a blazingly fast launcher for android requiring nearly no memory to run.  
-Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the "phone" button. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.
-
-[Github](https://github.com/Neamar/KISS) | [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss) | [F-Droid](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
 
 ![Amaze File Manager](/img/amaze.png)
 
