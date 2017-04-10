@@ -120,7 +120,7 @@ Search through your apps, contacts and settings lightning fast. No more time spe
 Privacy is possible, [Signal](https://whispersystems.org) makes it easy.
 Using Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or attachments all with complete privacy. The server never has access to any of your communication and never stores any of your data.
 
-[Github](https://github.com/WhisperSystems/Signal-Android) | [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+[Github](https://github.com/WhisperSystems/Signal-Android) | [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) | [APK](https://whispersystems.org/android/apk/)
 
 ![Silence](/img/silence.png)
 
