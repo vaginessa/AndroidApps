@@ -44,6 +44,7 @@ A list of interesting and open source Android apps.
   - [Writeily](#writeily)
   - [Omni-Notes](#omni-notes)
   - [Simplenote](#simplenote)
+  - [Standard Notes](#standard-notes)
 - [Task Manager](#task-manager)
   - [Mirakel](#mirakel)
   - [Tasks](#tasks)
@@ -353,6 +354,14 @@ The project was created by the absence of such applications compatible with old 
 [Simplenote](https://simplenote.com) is an easy way to keep notes, lists, ideas, and more. Keep notes on the web, your mobile device, and your computer. Find notes quickly with instant searching and simple tags. Share a list, post some instructions, or publish your thoughts.
 
 [Github](https://github.com/automattic/simplenote-android) | [Google Play](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
+
+![Standard Notes](/img/standardnotes.png)
+
+### Standard Notes
+
+[Standard Notes](https://standardnotes.org) is a simple notes app that delivers only the essentials in note-taking. It's fast, syncs your notes on almost every device, supports strong encryption and privacy, gives you 100% data ownership, and supports custom extensions like Markdown and Dropbox Sync.
+
+[Github](https://github.com/standardnotes/android) | [Google Play](https://play.google.com/store/apps/details?id=org.standardnotes.notes)
 
 ## Task Manager
 
