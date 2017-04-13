@@ -587,4 +587,4 @@ This project is the Android app for the conference. The app supports devices run
 
 ---
 
-Feel free to add cool open source Android apps which would be missing from this list.
+Feel free to add cool open source Android apps which would be missing from this list or to correct any mistake you could spot.
